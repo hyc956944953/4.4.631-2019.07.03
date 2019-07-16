@@ -1,0 +1,3 @@
+# Referenced at E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:60
+-keep class com.tencent.qcloud.tim.demo.DemoApplication { <init>(...); }
+
