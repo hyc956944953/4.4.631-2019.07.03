@@ -60,5 +60,6 @@ public class TUIKit {
      */
     public static void login(String userid, String usersig, final IUIKitCallBack callback) {
         TUIKitImpl.login(userid, usersig, callback);
+
     }
 }

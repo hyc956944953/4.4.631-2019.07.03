@@ -23,6 +23,11 @@ allprojects {
             flatDir {
                 dirs 'libs', '../tuikit/libs'
             }
+
+            // 添加如下 maven 仓库地址
+            maven {
+                url "https://dl.bintray.com/tencentqcloudterminal/maven"
+            }
         }
         // 华为离线推送
         maven {url 'http://developer.huawei.com/repo/'}

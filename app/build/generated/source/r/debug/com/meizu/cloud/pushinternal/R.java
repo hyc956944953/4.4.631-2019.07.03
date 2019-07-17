@@ -8,26 +8,26 @@ package com.meizu.cloud.pushinternal;
 
 public final class R {
     public static final class drawable {
-        public static final int stat_sys_third_app_notify = 0x7f0700be;
+        public static final int stat_sys_third_app_notify = 0x7f0700c0;
     }
     public static final class id {
-        public static final int push_big_bigtext_defaultView = 0x7f080125;
-        public static final int push_big_bigview_defaultView = 0x7f080126;
-        public static final int push_big_defaultView = 0x7f080127;
-        public static final int push_big_notification = 0x7f080128;
-        public static final int push_big_notification_content = 0x7f080129;
-        public static final int push_big_notification_date = 0x7f08012a;
-        public static final int push_big_notification_icon = 0x7f08012b;
-        public static final int push_big_notification_icon2 = 0x7f08012c;
-        public static final int push_big_notification_title = 0x7f08012d;
-        public static final int push_big_pic_default_Content = 0x7f08012e;
-        public static final int push_big_text_notification_area = 0x7f08012f;
-        public static final int push_pure_bigview_banner = 0x7f080130;
-        public static final int push_pure_bigview_expanded = 0x7f080131;
+        public static final int push_big_bigtext_defaultView = 0x7f08012a;
+        public static final int push_big_bigview_defaultView = 0x7f08012b;
+        public static final int push_big_defaultView = 0x7f08012c;
+        public static final int push_big_notification = 0x7f08012d;
+        public static final int push_big_notification_content = 0x7f08012e;
+        public static final int push_big_notification_date = 0x7f08012f;
+        public static final int push_big_notification_icon = 0x7f080130;
+        public static final int push_big_notification_icon2 = 0x7f080131;
+        public static final int push_big_notification_title = 0x7f080132;
+        public static final int push_big_pic_default_Content = 0x7f080133;
+        public static final int push_big_text_notification_area = 0x7f080134;
+        public static final int push_pure_bigview_banner = 0x7f080135;
+        public static final int push_pure_bigview_expanded = 0x7f080136;
     }
     public static final class layout {
-        public static final int push_expandable_big_image_notification = 0x7f0a007e;
-        public static final int push_expandable_big_text_notification = 0x7f0a007f;
-        public static final int push_pure_pic_notification = 0x7f0a0080;
+        public static final int push_expandable_big_image_notification = 0x7f0a0082;
+        public static final int push_expandable_big_text_notification = 0x7f0a0083;
+        public static final int push_pure_pic_notification = 0x7f0a0084;
     }
 }

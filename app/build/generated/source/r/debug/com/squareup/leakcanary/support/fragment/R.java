@@ -23,17 +23,17 @@ public final class R {
         public static final int abc_action_bar_embed_tabs = 0x7f040000;
     }
     public static final class color {
-        public static final int leak_canary_background_color = 0x7f050044;
-        public static final int leak_canary_class_name = 0x7f050045;
-        public static final int leak_canary_extra = 0x7f050046;
-        public static final int leak_canary_help = 0x7f050047;
-        public static final int leak_canary_icon_background = 0x7f050048;
-        public static final int leak_canary_leak = 0x7f050049;
-        public static final int leak_canary_reference = 0x7f05004a;
-        public static final int notification_action_color_filter = 0x7f05005a;
-        public static final int notification_icon_bg_color = 0x7f05005b;
-        public static final int ripple_material_light = 0x7f050068;
-        public static final int secondary_text_default_material_light = 0x7f05006a;
+        public static final int leak_canary_background_color = 0x7f050045;
+        public static final int leak_canary_class_name = 0x7f050046;
+        public static final int leak_canary_extra = 0x7f050047;
+        public static final int leak_canary_help = 0x7f050048;
+        public static final int leak_canary_icon_background = 0x7f050049;
+        public static final int leak_canary_leak = 0x7f05004a;
+        public static final int leak_canary_reference = 0x7f05004b;
+        public static final int notification_action_color_filter = 0x7f05005b;
+        public static final int notification_icon_bg_color = 0x7f05005c;
+        public static final int ripple_material_light = 0x7f050069;
+        public static final int secondary_text_default_material_light = 0x7f05006b;
     }
     public static final class dimen {
         public static final int compat_button_inset_horizontal_material = 0x7f060056;
@@ -72,21 +72,21 @@ public final class R {
         public static final int notification_top_pad_large_text = 0x7f06008d;
     }
     public static final class drawable {
-        public static final int leak_canary_icon_foreground = 0x7f070096;
-        public static final int leak_canary_notification = 0x7f070097;
-        public static final int leak_canary_toast_background = 0x7f070098;
-        public static final int notification_action_background = 0x7f0700ab;
-        public static final int notification_bg = 0x7f0700ac;
-        public static final int notification_bg_low = 0x7f0700ad;
-        public static final int notification_bg_low_normal = 0x7f0700ae;
-        public static final int notification_bg_low_pressed = 0x7f0700af;
-        public static final int notification_bg_normal = 0x7f0700b0;
-        public static final int notification_bg_normal_pressed = 0x7f0700b1;
-        public static final int notification_icon_background = 0x7f0700b2;
-        public static final int notification_template_icon_bg = 0x7f0700b3;
-        public static final int notification_template_icon_low_bg = 0x7f0700b4;
-        public static final int notification_tile_bg = 0x7f0700b5;
-        public static final int notify_panel_notification_icon_bg = 0x7f0700b6;
+        public static final int leak_canary_icon_foreground = 0x7f070098;
+        public static final int leak_canary_notification = 0x7f070099;
+        public static final int leak_canary_toast_background = 0x7f07009a;
+        public static final int notification_action_background = 0x7f0700ad;
+        public static final int notification_bg = 0x7f0700ae;
+        public static final int notification_bg_low = 0x7f0700af;
+        public static final int notification_bg_low_normal = 0x7f0700b0;
+        public static final int notification_bg_low_pressed = 0x7f0700b1;
+        public static final int notification_bg_normal = 0x7f0700b2;
+        public static final int notification_bg_normal_pressed = 0x7f0700b3;
+        public static final int notification_icon_background = 0x7f0700b4;
+        public static final int notification_template_icon_bg = 0x7f0700b5;
+        public static final int notification_template_icon_low_bg = 0x7f0700b6;
+        public static final int notification_tile_bg = 0x7f0700b7;
+        public static final int notify_panel_notification_icon_bg = 0x7f0700b8;
     }
     public static final class id {
         public static final int action_container = 0x7f080010;
@@ -95,93 +95,93 @@ public final class R {
         public static final int action_text = 0x7f080019;
         public static final int actions = 0x7f08001a;
         public static final int async = 0x7f080027;
-        public static final int blocking = 0x7f080032;
-        public static final int chronometer = 0x7f080052;
-        public static final int forever = 0x7f080099;
-        public static final int fragments = 0x7f08009b;
-        public static final int icon = 0x7f0800c6;
-        public static final int icon_group = 0x7f0800c7;
-        public static final int info = 0x7f0800cf;
-        public static final int italic = 0x7f0800d2;
-        public static final int leak_canary_action = 0x7f0800d8;
-        public static final int leak_canary_display_leak_failure = 0x7f0800d9;
-        public static final int leak_canary_display_leak_list = 0x7f0800da;
-        public static final int leak_canary_row_connector = 0x7f0800db;
-        public static final int leak_canary_row_details = 0x7f0800dc;
-        public static final int leak_canary_row_layout = 0x7f0800dd;
-        public static final int leak_canary_row_more = 0x7f0800de;
-        public static final int leak_canary_row_text = 0x7f0800df;
-        public static final int leak_canary_row_time = 0x7f0800e0;
-        public static final int leak_canary_row_title = 0x7f0800e1;
-        public static final int line1 = 0x7f0800e4;
-        public static final int line3 = 0x7f0800e5;
-        public static final int normal = 0x7f080108;
-        public static final int notification_background = 0x7f08010b;
-        public static final int notification_main_column = 0x7f08010c;
-        public static final int notification_main_column_container = 0x7f08010d;
-        public static final int right_icon = 0x7f08013a;
-        public static final int right_side = 0x7f08013b;
-        public static final int text = 0x7f08016d;
-        public static final int text2 = 0x7f08016e;
-        public static final int time = 0x7f080175;
-        public static final int title = 0x7f080176;
+        public static final int blocking = 0x7f080033;
+        public static final int chronometer = 0x7f080053;
+        public static final int forever = 0x7f08009a;
+        public static final int fragments = 0x7f08009c;
+        public static final int icon = 0x7f0800c7;
+        public static final int icon_group = 0x7f0800c8;
+        public static final int info = 0x7f0800d1;
+        public static final int italic = 0x7f0800d4;
+        public static final int leak_canary_action = 0x7f0800db;
+        public static final int leak_canary_display_leak_failure = 0x7f0800dc;
+        public static final int leak_canary_display_leak_list = 0x7f0800dd;
+        public static final int leak_canary_row_connector = 0x7f0800de;
+        public static final int leak_canary_row_details = 0x7f0800df;
+        public static final int leak_canary_row_layout = 0x7f0800e0;
+        public static final int leak_canary_row_more = 0x7f0800e1;
+        public static final int leak_canary_row_text = 0x7f0800e2;
+        public static final int leak_canary_row_time = 0x7f0800e3;
+        public static final int leak_canary_row_title = 0x7f0800e4;
+        public static final int line1 = 0x7f0800e7;
+        public static final int line3 = 0x7f0800e8;
+        public static final int normal = 0x7f08010c;
+        public static final int notification_background = 0x7f08010f;
+        public static final int notification_main_column = 0x7f080110;
+        public static final int notification_main_column_container = 0x7f080111;
+        public static final int right_icon = 0x7f08013f;
+        public static final int right_side = 0x7f080140;
+        public static final int text = 0x7f080174;
+        public static final int text2 = 0x7f080175;
+        public static final int time = 0x7f08017c;
+        public static final int title = 0x7f08017d;
     }
     public static final class integer {
         public static final int status_bar_notification_info_maxnum = 0x7f090004;
     }
     public static final class layout {
-        public static final int activity_test = 0x7f0a001e;
-        public static final int leak_canary_display_leak = 0x7f0a0056;
-        public static final int leak_canary_heap_dump_toast = 0x7f0a0057;
-        public static final int leak_canary_leak_row = 0x7f0a0058;
-        public static final int leak_canary_ref_row = 0x7f0a0059;
-        public static final int leak_canary_ref_top_row = 0x7f0a005a;
-        public static final int notification_action = 0x7f0a0066;
-        public static final int notification_action_tombstone = 0x7f0a0067;
-        public static final int notification_template_custom_big = 0x7f0a006e;
-        public static final int notification_template_icon_group = 0x7f0a006f;
-        public static final int notification_template_part_chronometer = 0x7f0a0073;
-        public static final int notification_template_part_time = 0x7f0a0074;
+        public static final int activity_test = 0x7f0a0020;
+        public static final int leak_canary_display_leak = 0x7f0a005a;
+        public static final int leak_canary_heap_dump_toast = 0x7f0a005b;
+        public static final int leak_canary_leak_row = 0x7f0a005c;
+        public static final int leak_canary_ref_row = 0x7f0a005d;
+        public static final int leak_canary_ref_top_row = 0x7f0a005e;
+        public static final int notification_action = 0x7f0a006a;
+        public static final int notification_action_tombstone = 0x7f0a006b;
+        public static final int notification_template_custom_big = 0x7f0a0072;
+        public static final int notification_template_icon_group = 0x7f0a0073;
+        public static final int notification_template_part_chronometer = 0x7f0a0077;
+        public static final int notification_template_part_time = 0x7f0a0078;
     }
     public static final class mipmap {
         public static final int leak_canary_icon = 0x7f0b0000;
     }
     public static final class string {
-        public static final int leak_canary_analysis_failed = 0x7f0c0063;
-        public static final int leak_canary_class_has_leaked = 0x7f0c0064;
-        public static final int leak_canary_class_has_leaked_retaining = 0x7f0c0065;
-        public static final int leak_canary_could_not_save_text = 0x7f0c0066;
-        public static final int leak_canary_delete = 0x7f0c0067;
-        public static final int leak_canary_delete_all = 0x7f0c0068;
-        public static final int leak_canary_delete_all_leaks_title = 0x7f0c0069;
-        public static final int leak_canary_display_activity_label = 0x7f0c006a;
-        public static final int leak_canary_excluded_row = 0x7f0c006b;
-        public static final int leak_canary_failure_report = 0x7f0c006c;
-        public static final int leak_canary_help_detail = 0x7f0c006d;
-        public static final int leak_canary_help_title = 0x7f0c006e;
-        public static final int leak_canary_leak_excluded = 0x7f0c006f;
-        public static final int leak_canary_leak_excluded_retaining = 0x7f0c0070;
-        public static final int leak_canary_leak_list_title = 0x7f0c0071;
-        public static final int leak_canary_no_leak_text = 0x7f0c0072;
-        public static final int leak_canary_no_leak_title = 0x7f0c0073;
-        public static final int leak_canary_notification_analysing = 0x7f0c0074;
-        public static final int leak_canary_notification_channel = 0x7f0c0075;
-        public static final int leak_canary_notification_dumping = 0x7f0c0076;
-        public static final int leak_canary_notification_foreground_text = 0x7f0c0077;
-        public static final int leak_canary_notification_message = 0x7f0c0078;
-        public static final int leak_canary_notification_reporting = 0x7f0c0079;
-        public static final int leak_canary_permission_not_granted = 0x7f0c007a;
-        public static final int leak_canary_permission_notification_text = 0x7f0c007b;
-        public static final int leak_canary_permission_notification_title = 0x7f0c007c;
-        public static final int leak_canary_result_failure_no_disk_space = 0x7f0c007d;
-        public static final int leak_canary_result_failure_no_file = 0x7f0c007e;
-        public static final int leak_canary_result_failure_title = 0x7f0c007f;
-        public static final int leak_canary_share_heap_dump = 0x7f0c0080;
-        public static final int leak_canary_share_leak = 0x7f0c0081;
-        public static final int leak_canary_share_with = 0x7f0c0082;
-        public static final int leak_canary_storage_permission_activity_label = 0x7f0c0083;
-        public static final int leak_canary_toast_heap_dump = 0x7f0c0084;
-        public static final int status_bar_notification_info_overflow = 0x7f0c00a5;
+        public static final int leak_canary_analysis_failed = 0x7f0c0064;
+        public static final int leak_canary_class_has_leaked = 0x7f0c0065;
+        public static final int leak_canary_class_has_leaked_retaining = 0x7f0c0066;
+        public static final int leak_canary_could_not_save_text = 0x7f0c0067;
+        public static final int leak_canary_delete = 0x7f0c0068;
+        public static final int leak_canary_delete_all = 0x7f0c0069;
+        public static final int leak_canary_delete_all_leaks_title = 0x7f0c006a;
+        public static final int leak_canary_display_activity_label = 0x7f0c006b;
+        public static final int leak_canary_excluded_row = 0x7f0c006c;
+        public static final int leak_canary_failure_report = 0x7f0c006d;
+        public static final int leak_canary_help_detail = 0x7f0c006e;
+        public static final int leak_canary_help_title = 0x7f0c006f;
+        public static final int leak_canary_leak_excluded = 0x7f0c0070;
+        public static final int leak_canary_leak_excluded_retaining = 0x7f0c0071;
+        public static final int leak_canary_leak_list_title = 0x7f0c0072;
+        public static final int leak_canary_no_leak_text = 0x7f0c0073;
+        public static final int leak_canary_no_leak_title = 0x7f0c0074;
+        public static final int leak_canary_notification_analysing = 0x7f0c0075;
+        public static final int leak_canary_notification_channel = 0x7f0c0076;
+        public static final int leak_canary_notification_dumping = 0x7f0c0077;
+        public static final int leak_canary_notification_foreground_text = 0x7f0c0078;
+        public static final int leak_canary_notification_message = 0x7f0c0079;
+        public static final int leak_canary_notification_reporting = 0x7f0c007a;
+        public static final int leak_canary_permission_not_granted = 0x7f0c007b;
+        public static final int leak_canary_permission_notification_text = 0x7f0c007c;
+        public static final int leak_canary_permission_notification_title = 0x7f0c007d;
+        public static final int leak_canary_result_failure_no_disk_space = 0x7f0c007e;
+        public static final int leak_canary_result_failure_no_file = 0x7f0c007f;
+        public static final int leak_canary_result_failure_title = 0x7f0c0080;
+        public static final int leak_canary_share_heap_dump = 0x7f0c0081;
+        public static final int leak_canary_share_leak = 0x7f0c0082;
+        public static final int leak_canary_share_with = 0x7f0c0083;
+        public static final int leak_canary_storage_permission_activity_label = 0x7f0c0084;
+        public static final int leak_canary_toast_heap_dump = 0x7f0c0085;
+        public static final int status_bar_notification_info_overflow = 0x7f0c00a7;
     }
     public static final class style {
         public static final int TextAppearance_Compat_Notification = 0x7f0d00e9;
@@ -213,6 +213,6 @@ public final class R {
         public static final int leak_canary_MoreDetailsView_leak_canary_plus_color = 0;
     }
     public static final class xml {
-        public static final int leak_canary_file_paths = 0x7f0f0001;
+        public static final int leak_canary_file_paths = 0x7f0f0002;
     }
 }

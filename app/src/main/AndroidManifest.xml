@@ -12,23 +12,17 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.READ_LOGS" />
     <uses-permission android:name="android.permission.VIBRATE" />
-    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-
-    <!-- ********华为推送权限设置******** -->
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" /> <!-- ********华为推送权限设置******** -->
     <permission
         android:name="com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG"
         android:protectionLevel="signatureOrSystem" />
 
-    <uses-permission android:name="com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG" />
-
-    <!-- ********小米推送权限设置******** -->
+    <uses-permission android:name="com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG" /> <!-- ********小米推送权限设置******** -->
     <permission
         android:name="com.tencent.qcloud.tim.tuikit.permission.MIPUSH_RECEIVE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.tencent.qcloud.tim.tuikit.permission.MIPUSH_RECEIVE" />
-
-    <!-- ********魅族推送权限设置******** -->
+    <uses-permission android:name="com.tencent.qcloud.tim.tuikit.permission.MIPUSH_RECEIVE" /> <!-- ********魅族推送权限设置******** -->
     <!-- 兼容flyme5.0以下版本，魅族内部集成pushSDK必填，不然无法收到消息 -->
     <uses-permission android:name="com.meizu.flyme.push.permission.RECEIVE" />
 
@@ -36,9 +30,7 @@
         android:name="com.tencent.qcloud.tim.tuikit.push.permission.MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.tencent.qcloud.tim.tuikit.push.permission.MESSAGE" />
-
-    <!-- 兼容flyme3.0配置权限 -->
+    <uses-permission android:name="com.tencent.qcloud.tim.tuikit.push.permission.MESSAGE" /> <!-- 兼容flyme3.0配置权限 -->
     <uses-permission android:name="com.meizu.c2dm.permission.RECEIVE" />
 
     <permission
@@ -48,14 +40,15 @@
     <uses-permission android:name="com.tencent.qcloud.tim.tuikit.permission.C2D_MESSAGE" />
 
     <application
-        android:name="com.tencent.qcloud.tim.demo.DemoApplication"
+        android:name=".DemoApplication"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".ChoosePicActivity"></activity>
         <activity
-            android:name="com.tencent.qcloud.tim.demo.login.LoginForDevActivity"
+            android:name=".login.LoginForDevActivity"
             android:screenOrientation="portrait"
             android:theme="@style/SplashTheme">
             <intent-filter>
@@ -64,70 +57,60 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-
-        <!--<activity-->
-            <!--android:name="com.tencent.qcloud.tim.demo.login.LoginForDevActivity"-->
-            <!--android:screenOrientation="portrait" />-->
+        </activity> <!-- <activity -->
+        <!-- android:name="com.tencent.qcloud.tim.demo.login.LoginForDevActivity" -->
+        <!-- android:screenOrientation="portrait" /> -->
         <activity
-            android:name="com.tencent.qcloud.tim.demo.chat.ChatActivity"
+            android:name=".chat.ChatActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustResize|stateHidden" />
         <activity
-            android:name="com.tencent.qcloud.tim.demo.main.MainActivity"
+            android:name=".main.MainActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.tencent.qcloud.tim.demo.menu.AddMoreActivity"
+            android:name=".menu.AddMoreActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.tencent.qcloud.tim.demo.contact.FriendProfileActivity"
+            android:name=".contact.FriendProfileActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.tencent.qcloud.tim.demo.contact.NewFriendActivity"
+            android:name=".contact.NewFriendActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.tencent.qcloud.tim.demo.contact.BlackListActivity"
+            android:name=".contact.BlackListActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.tencent.qcloud.tim.demo.contact.GroupListActivity"
+            android:name=".contact.GroupListActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.tencent.qcloud.tim.demo.menu.StartC2CChatActivity"
+            android:name=".menu.StartC2CChatActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.tencent.qcloud.tim.demo.profile.WebViewActivity"
+            android:name=".profile.WebViewActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.tencent.qcloud.tim.demo.menu.StartGroupChatActivity"
+            android:name=".menu.StartGroupChatActivity"
             android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
-
-        <!-- 消息收发 service -->
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" /> <!-- 消息收发 service -->
         <service
             android:name="com.tencent.imsdk.session.remote.SessionService"
-            android:process=":network" />
-        <!-- 消息收发辅助 service -->
-
+            android:process=":network" /> <!-- 消息收发辅助 service -->
         <service
             android:name="com.tencent.imsdk.session.remote.AssistService"
             android:process=":network" />
         <service
             android:name="com.tencent.imsdk.session.remote.KeepAliveJobService"
             android:permission="android.permission.BIND_JOB_SERVICE"
-            android:process=":network" />
-
-        <!-- 离线消息广播接收器 -->
+            android:process=":network" /> <!-- 离线消息广播接收器 -->
         <receiver android:name="com.tencent.imsdk.session.SessionBroadcastReceiver">
             <intent-filter>
                 <action android:name="com.tencent.imsdk.session.boot" />
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
                 <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
             </intent-filter>
-        </receiver>
-
-        <!-- ********小米推送service和receiver设置start******** -->
+        </receiver> <!-- ********小米推送service和receiver设置start******** -->
         <service
             android:name="com.xiaomi.push.service.XMPushService"
             android:enabled="true"
@@ -137,18 +120,14 @@
             android:enabled="true"
             android:exported="false"
             android:permission="android.permission.BIND_JOB_SERVICE"
-            android:process=":pushservice" />
-
-        <!-- 注：此service必须在3.0.1版本以后（包括3.0.1版本）加入 -->
+            android:process=":pushservice" /> <!-- 注：此service必须在3.0.1版本以后（包括3.0.1版本）加入 -->
         <service
             android:name="com.xiaomi.mipush.sdk.PushMessageHandler"
             android:enabled="true"
             android:exported="true" />
         <service
             android:name="com.xiaomi.mipush.sdk.MessageHandleService"
-            android:enabled="true" />
-
-        <!-- 注：此service必须在2.2.5版本以后（包括2.2.5版本）加入 -->
+            android:enabled="true" /> <!-- 注：此service必须在2.2.5版本以后（包括2.2.5版本）加入 -->
         <receiver
             android:name="com.xiaomi.push.service.receivers.NetworkStatusReceiver"
             android:exported="true">
@@ -165,11 +144,9 @@
             <intent-filter>
                 <action android:name="com.xiaomi.push.PING_TIMER" />
             </intent-filter>
-        </receiver>
-
-        <!-- 自实现小米推送的接收广播 -->
+        </receiver> <!-- 自实现小米推送的接收广播 -->
         <receiver
-            android:name="com.tencent.qcloud.tim.demo.thirdpush.XiaomiMsgReceiver"
+            android:name=".thirdpush.XiaomiMsgReceiver"
             android:exported="true">
             <intent-filter>
                 <action android:name="com.xiaomi.mipush.RECEIVE_MESSAGE" />
@@ -180,9 +157,7 @@
             <intent-filter>
                 <action android:name="com.xiaomi.mipush.ERROR" />
             </intent-filter>
-        </receiver>
-        <!-- ********小米推送service和receiver设置end******** -->
-
+        </receiver> <!-- ********小米推送service和receiver设置end******** -->
         <!-- ********华为推送设置start******** -->
         <meta-data
             android:name="com.huawei.hms.client.appid"
@@ -193,12 +168,11 @@
             android:authorities="com.tencent.qcloud.tim.tuikit.hms.update.provider"
             android:exported="false"
             android:grantUriPermissions="true" />
-
         <provider
             android:name="com.huawei.updatesdk.fileprovider.UpdateSdkFileProvider"
             android:authorities="com.tencent.qcloud.tim.tuikit.updateSdk.fileProvider"
             android:exported="false"
-            android:grantUriPermissions="true"/>
+            android:grantUriPermissions="true" />
 
         <activity
             android:name="com.huawei.android.hms.agent.common.HMSAgentActivity"
@@ -211,7 +185,6 @@
                 android:name="hwc-theme"
                 android:value="androidhwext:style/Theme.Emui.Translucent" />
         </activity>
-
         <activity
             android:name="com.huawei.hms.activity.BridgeActivity"
             android:configChanges="orientation|locale|screenSize|layoutDirection|fontScale"
@@ -225,7 +198,7 @@
         </activity>
 
         <receiver
-            android:name="com.tencent.qcloud.tim.demo.thirdpush.HUAWEIPushReceiver"
+            android:name=".thirdpush.HUAWEIPushReceiver"
             android:permission="com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG">
             <intent-filter>
 
@@ -247,12 +220,9 @@
                 <action android:name="com.huawei.push.msg.NOTIFY_MSG" />
                 <action android:name="com.huawei.push.msg.PASSBY_MSG" />
             </intent-filter>
-        </service>
-
-        <!-- ********华为推送设置end******** -->
-
+        </service> <!-- ********华为推送设置end******** -->
         <!-- ********魅族推送设置start******** -->
-        <receiver android:name="com.tencent.qcloud.tim.demo.thirdpush.MEIZUPushReceiver">
+        <receiver android:name=".thirdpush.MEIZUPushReceiver">
             <intent-filter>
 
                 <!-- 接收push消息 -->
@@ -267,9 +237,7 @@
 
                 <category android:name="com.tencent.qcloud.uipojo.thirdpush" />
             </intent-filter>
-        </receiver>
-        <!-- ********魅族推送设置end******** -->
-
+        </receiver> <!-- ********魅族推送设置end******** -->
         <!-- ********vivo推送设置start******** -->
         <service
             android:name="com.vivo.push.sdk.service.CommandClientService"
@@ -279,10 +247,8 @@
             android:name="com.vivo.push.sdk.LinkProxyClientActivity"
             android:exported="false"
             android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-
-        <!-- push应用定义消息receiver声明 -->
-        <receiver android:name="com.tencent.qcloud.tim.demo.thirdpush.VIVOPushMessageReceiverImpl">
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- push应用定义消息receiver声明 -->
+        <receiver android:name=".thirdpush.VIVOPushMessageReceiverImpl">
             <intent-filter>
 
                 <!-- 接收push消息 -->

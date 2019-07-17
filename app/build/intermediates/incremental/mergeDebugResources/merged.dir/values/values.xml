@@ -333,6 +333,7 @@
     <color name="btn_red_hover">#cc3428</color>
     <color name="btn_text">#FFFFFF</color>
     <color name="btn_text_hover">#FFFFFF</color>
+    <color name="burlywood">#55deb887</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="colorAccent">#FF4081</color>
@@ -409,6 +410,7 @@
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
     <color name="top_conversation_color">#e5e5e5</color>
+    <color name="translucent_background">#00ffffff</color>
     <color name="transparent">#00000000</color>
     <color name="upsdk_blue_text_007dff">#007dff</color>
     <color name="upsdk_category_button_select_pressed">#0076f2</color>
@@ -917,6 +919,7 @@
     <string name="create_chat_room">创建聊天室</string>
     <string name="create_group_chat">创建群聊</string>
     <string name="create_private_group">创建讨论组</string>
+    <string name="dialog_title">是否查看COS本地日志</string>
     <string name="dissolve">解散该群</string>
     <string name="downloaded">已下载</string>
     <string name="downloading">下载中...</string>
@@ -1024,6 +1027,7 @@
     <string name="modify_nickname_success">修改昵称成功</string>
     <string name="modify_signature">修改个性签名</string>
     <string name="new_friend">新的联系人</string>
+    <string name="no">否</string>
     <string name="password">密码</string>
     <string name="photo">拍照</string>
     <string name="pic">图片</string>
@@ -1081,6 +1085,7 @@
     <string name="user_id">对方ID</string>
     <string name="video">摄像</string>
     <string name="view_original_image">查看原图</string>
+    <string name="yes">是</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="AlertDialogStyle" parent="@android:style/Theme.Dialog">

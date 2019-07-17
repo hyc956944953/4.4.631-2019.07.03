@@ -18,6 +18,7 @@ import com.tencent.imsdk.TIMFriendshipManager;
 import com.tencent.imsdk.TIMManager;
 import com.tencent.imsdk.TIMUserProfile;
 import com.tencent.imsdk.TIMValueCallBack;
+import com.tencent.qcloud.tim.demo.ChoosePicActivity;
 import com.tencent.qcloud.tim.demo.R;
 import com.tencent.qcloud.tim.demo.utils.DemoLog;
 import com.tencent.qcloud.tim.uikit.component.LineControllerView;
@@ -64,6 +65,8 @@ public class ProfileLayout extends LinearLayout implements View.OnClickListener 
         inflate(getContext(), R.layout.profile_layout, this);
 
         mUserIcon = findViewById(R.id.self_icon);
+        mUserIcon.setOnClickListener(this);
+
         mAccountView = findViewById(R.id.self_account);
 
         mTitleBar = findViewById(R.id.self_info_title_bar);
@@ -163,6 +166,9 @@ public class ProfileLayout extends LinearLayout implements View.OnClickListener 
             });
         } else if (v.getId() == R.id.about_im) {
             Intent intent = new Intent((Activity)getContext(), WebViewActivity.class);
+            ((Activity)getContext()).startActivity(intent);
+        }else if(v.getId()==R.id.self_icon){
+            Intent intent = new Intent((Activity)getContext(), ChoosePicActivity.class);
             ((Activity)getContext()).startActivity(intent);
         }
     }
