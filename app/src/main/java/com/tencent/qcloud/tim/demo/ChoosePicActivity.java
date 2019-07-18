@@ -18,6 +18,8 @@ import android.support.v4.content.ContextCompat;
 import android.support.v4.content.FileProvider;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.DialogTitle;
+import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -37,21 +39,40 @@ import com.tencent.cos.xml.transfer.TransferConfig;
 import com.tencent.cos.xml.transfer.TransferManager;
 import com.tencent.cos.xml.transfer.TransferState;
 import com.tencent.cos.xml.transfer.TransferStateListener;
+import com.tencent.imsdk.TIMCallBack;
+import com.tencent.imsdk.TIMFriendshipManager;
+import com.tencent.imsdk.TIMManager;
+import com.tencent.imsdk.TIMUserProfile;
+import com.tencent.imsdk.TIMValueCallBack;
 import com.tencent.qcloud.core.auth.QCloudCredentialProvider;
 import com.tencent.qcloud.core.auth.ShortTimeCredentialProvider;
 import com.tencent.qcloud.tim.demo.main.MainActivity;
+import com.tencent.qcloud.tim.demo.utils.DemoLog;
+import com.tencent.qcloud.tim.uikit.utils.ToastUtil;
+import com.tencent.timint.TIMIntManager;
 
+import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.InputStream;
+import java.nio.charset.Charset;
+import java.util.HashMap;
 
 public class ChoosePicActivity extends AppCompatActivity {
+    private static final String TAG = "ChoosePicActivity";
+
+
+    private CosXmlService cosXmlService;
+    private TransferManager transferManager;
+
 
     private Button take_photo, select_photo;
     public static final int TAKE_PHOTO = 1;
     public static final int SELECT_PHOTO = 2;
     private ImageView imageview;
     private Uri imageUri;
+    private String imagePath;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -139,7 +160,6 @@ public class ChoosePicActivity extends AppCompatActivity {
                     try {
                         Bitmap bitmap = BitmapFactory.decodeStream(getContentResolver().openInputStream(imageUri));
                         imageview.setImageBitmap(bitmap);
-//                        initCos(imageUri);
                     } catch (FileNotFoundException e) {
                         e.printStackTrace();
                     }
@@ -154,6 +174,13 @@ public class ChoosePicActivity extends AppCompatActivity {
                     } else {
                         handleImageBeforeKitKat(data);
                     }
+                    String cosPath=imagePath.substring(imagePath.lastIndexOf("/") + 1, imagePath.length());
+                    initCosService("1251123904","ap-guangzhou");
+                    upload("yaoche",cosPath,imagePath);
+                    updateFaceUrl(cosPath);
+
+
+
                 }
                 break;
             default:
@@ -166,8 +193,9 @@ public class ChoosePicActivity extends AppCompatActivity {
      */
     private void handleImageBeforeKitKat(Intent data) {
         Uri uri = data.getData();
-        String imagePath = getImagePath(uri, null);
+        imagePath = getImagePath(uri, null);
         displayImage(imagePath);
+
     }
 
     /**
@@ -175,7 +203,7 @@ public class ChoosePicActivity extends AppCompatActivity {
      */
     @TargetApi(Build.VERSION_CODES.KITKAT)
     private void handleImgeOnKitKat(Intent data) {
-        String imagePath = null;
+        imagePath = null;
         Uri uri = data.getData();
         if (DocumentsContract.isDocumentUri(this, uri)) {
             //如果是document类型的uri，则通过document id处理
@@ -197,7 +225,8 @@ public class ChoosePicActivity extends AppCompatActivity {
             }
             //根据图片路径显示图片
             displayImage(imagePath);
-            initCos(imagePath);
+
+
         }
     }
 
@@ -208,7 +237,7 @@ public class ChoosePicActivity extends AppCompatActivity {
         if (imagePath != null) {
             Bitmap bitmap = BitmapFactory.decodeFile(imagePath);
             imageview.setImageBitmap(bitmap);
-//            initCos(imagePath);
+
         } else {
             Toast.makeText(getApplicationContext(), "failed to get image", Toast.LENGTH_SHORT).show();
         }
@@ -251,12 +280,62 @@ public class ChoosePicActivity extends AppCompatActivity {
     }
 
 
-    public void initCos(String path) {
-        String region = "gz";
+
+    /**
+     * 上传
+     *
+     * @params bucket  bucket 名称
+     * @params cosPath 上传到 COS 的路径
+     * @params localPath 本地文件路径
+     */
+    public void upload(String bucket, String cosPath, String localPath) {
+
+        // 开始上传，并返回生成的 COSXMLUploadTask
+        COSXMLUploadTask cosxmlUploadTask = transferManager.upload(bucket, cosPath,
+                localPath, null);
+
+        // 设置上传状态监听
+        cosxmlUploadTask.setTransferStateListener(new TransferStateListener() {
+            @Override
+            public void onStateChanged(final TransferState state) {
+                // TODO: 2018/10/22
+            }
+        });
+
+        // 设置上传进度监听
+        cosxmlUploadTask.setCosXmlProgressListener(new CosXmlProgressListener() {
+            @Override
+            public void onProgress(final long complete, final long target) {
+                // TODO: 2018/10/22
+                float progress = 1.0f * complete / target * 100;
+                Log.e(TAG,  String.format("progress = %d%%", (int)progress));
+            }
+        });
+
+        // 设置结果监听
+        cosxmlUploadTask.setCosXmlResultListener(new CosXmlResultListener() {
+            @Override
+            public void onSuccess(CosXmlRequest request, CosXmlResult result) {
+                // TODO: 2018/10/22
+                COSXMLUploadTask.COSXMLUploadTaskResult cOSXMLUploadTaskResult = (COSXMLUploadTask.COSXMLUploadTaskResult)result;
+                Log.e(TAG,  "Success: " + cOSXMLUploadTaskResult.printResult());
+            }
+
+            @Override
+            public void onFail(CosXmlRequest request, CosXmlClientException exception, CosXmlServiceException serviceException) {
+                // TODO: 2018/10/22
+                Toast.makeText(ChoosePicActivity.this, "上传失败", Toast.LENGTH_SHORT).show();
+                Log.e(TAG,  "Failed: " + (exception == null ? serviceException.getMessage() : exception.toString()));
+            }
+        });
+    }
+
+
+    private void initCosService(String appid, String region) {
 
 //创建 CosXmlServiceConfig 对象，根据需要修改默认的配置参数
         CosXmlServiceConfig serviceConfig = new CosXmlServiceConfig.Builder()
-                .setRegion(region)
+                .setAppidAndRegion(appid,region)
                 .isHttps(true) // 使用 https 请求, 默认 http 请求
                 .setDebuggable(true)
                 .builder();
@@ -270,83 +349,50 @@ public class ChoosePicActivity extends AppCompatActivity {
  */
         QCloudCredentialProvider credentialProvider = new ShortTimeCredentialProvider(secretId, secretKey, 300);
 
+       cosXmlService = new CosXmlService(getApplicationContext(), serviceConfig, credentialProvider);
+
         // 初始化 TransferConfig
         TransferConfig transferConfig = new TransferConfig.Builder().build();
-        CosXmlService cosXmlService = new CosXmlService(getApplicationContext(), serviceConfig, credentialProvider);
 
 //初始化 TransferManager
-        TransferManager transferManager = new TransferManager(cosXmlService, transferConfig);
-
-        String bucket = "yaoche";
-        String cosPath = "A"; //即对象到 COS 上的绝对路径, 格式如 cosPath = "text.txt";
-        String srcPath = path; // 如 srcPath=Environment.getExternalStorageDirectory().getPath() + "/text.txt";
-        String uploadId = null; //若存在初始化分片上传的 UploadId，则赋值对应 uploadId 值用于续传，否则，赋值 null。
-        //上传对象
-        COSXMLUploadTask cosxmlUploadTask = transferManager.upload(bucket, cosPath, srcPath, uploadId);
-
-/**
- * 若是上传字节数组，则可调用 TransferManager 的 upload(string, string, byte[]) 方法实现;
- * byte[] bytes = "this is a test".getBytes(Charset.forName("UTF-8"));
- * cosxmlUploadTask = transferManager.upload(bucket, cosPath, bytes);
- */
-
-/**
- * 若是上传字节流，则可调用 TransferManager 的 upload(String, String, InputStream) 方法实现；
- * InputStream inputStream = new ByteArrayInputStream("this is a test".getBytes(Charset.forName("UTF-8")));
- * cosxmlUploadTask = transferManager.upload(bucket, cosPath, inputStream);
- */
+transferManager = new TransferManager(cosXmlService, transferConfig);
 
 
-//设置上传进度回调
-        cosxmlUploadTask.setCosXmlProgressListener(new CosXmlProgressListener() {
-            @Override
-            public void onProgress(long complete, long target) {
-                float progress = 1.0f * complete / target * 100;
-                Log.d("TEST", String.format("progress = %d%%", (int) progress));
-            }
-        });
-//设置返回结果回调
-        cosxmlUploadTask.setCosXmlResultListener(new CosXmlResultListener() {
-            @Override
-            public void onSuccess(CosXmlRequest request, CosXmlResult result) {
-                COSXMLUploadTask.COSXMLUploadTaskResult cOSXMLUploadTaskResult = (COSXMLUploadTask.COSXMLUploadTaskResult) result;
-                Log.d("TEST", "Success: " + cOSXMLUploadTaskResult.printResult());
-                Toast.makeText(ChoosePicActivity.this, "上传成功", Toast.LENGTH_SHORT).show();
-            }
-
-            @Override
-            public void onFail(CosXmlRequest request, CosXmlClientException exception, CosXmlServiceException serviceException) {
-//                Log.e("TEST", "Failed: " + (exception == null ? serviceException.getMessage() : exception.toString()));
-                Log.e("TEST", "Failed: " + (exception == null ? serviceException.getMessage() : exception.errorCode));
-                Toast.makeText(ChoosePicActivity.this, "上传失败", Toast.LENGTH_SHORT).show();
-            }
-        });
-//设置任务状态回调, 可以查看任务过程
-        cosxmlUploadTask.setTransferStateListener(new TransferStateListener() {
-            @Override
-            public void onStateChanged(TransferState state) {
-                Log.d("TEST", "Task state:" + state.name());
-            }
-        });
-
-/**
- 若有特殊要求，则可以如下操作：
- PutObjectRequest putObjectRequest = new PutObjectRequest(bucket, cosPath, srcPath);
- putObjectRequest.setRegion(region); //设置存储桶所在的地域
- putObjectRequest.setNeedMD5(true); //是否启用 Md5 校验
- COSXMLUploadTask cosxmlUploadTask = transferManager.upload(putObjectRequest, uploadId);
- */
-
-//取消上传
-        cosxmlUploadTask.cancel();
-
-
-//暂停上传
-        cosxmlUploadTask.pause();
-
-//恢复上传
-        cosxmlUploadTask.resume();
     }
+
+    private void updateFaceUrl(String cosPath) {
+        HashMap<String, Object> hashMap = new HashMap<>();
+
+        // 头像
+        String faceUrl ="\thttp://yaoche-1251123904.cosgz.myqcloud.com/"+cosPath;
+            hashMap.put(TIMUserProfile.TIM_PROFILE_TYPE_KEY_FACEURL, faceUrl);
+
+        TIMFriendshipManager.getInstance().modifySelfProfile(hashMap, new TIMCallBack() {
+            @Override
+            public void onError(int i, String s) {
+                Log.e(TAG, "修改失败");
+            }
+
+            @Override
+            public void onSuccess() {
+                Log.e(TAG, "修改成功");
+
+                TIMFriendshipManager.getInstance().getSelfProfile(new TIMValueCallBack<TIMUserProfile>() {
+                    @Override
+                    public void onError(int i, String s) {
+                        Log.e(TAG, "获取用户名头像失败" );
+                    }
+
+                    @Override
+                    public void onSuccess(TIMUserProfile timUserProfile) {
+                        Log.e(TAG, "用户名： "+timUserProfile.getIdentifier()+"  头像"+timUserProfile.getFaceUrl() );
+                    }
+                });
+
+            }
+        });
+    }
+
 }
 
 
