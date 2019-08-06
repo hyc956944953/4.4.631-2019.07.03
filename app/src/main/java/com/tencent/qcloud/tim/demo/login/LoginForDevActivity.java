@@ -9,12 +9,18 @@ import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.huawei.android.hms.agent.HMSAgent;
+import com.huawei.android.hms.agent.common.handler.ConnectHandler;
+import com.huawei.android.hms.agent.push.handler.GetTokenHandler;
+import com.tencent.imsdk.TIMOfflinePushSettings;
+import com.tencent.imsdk.utils.IMFunc;
 import com.tencent.qcloud.tim.demo.R;
 import com.tencent.qcloud.tim.demo.main.MainActivity;
 import com.tencent.qcloud.tim.demo.signature.GenerateTestUserSig;
@@ -36,7 +42,8 @@ import java.util.List;
 
 public class LoginForDevActivity extends Activity {
 
-    private static final String TAG = LoginForDevActivity.class.getSimpleName();
+//    private static final String TAG = LoginForDevActivity.class.getSimpleName();
+private static final String TAG = "LoginForDevActivity";
     private Button mLoginView;
     private EditText mUserAccount;
     private static final int REQ_PERMISSION_CODE = 0x100;
@@ -45,13 +52,25 @@ public class LoginForDevActivity extends Activity {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login_for_dev_layout);
-
+        Log.e(TAG, "你好" );
         mLoginView = findViewById(R.id.login_btn);
         // 用户名可以是任意非空字符，但是前提需要按照下面文档修改代码里的 SDKAPPID 与 PRIVATEKEY
         // https://github.com/tencentyun/TIMSDK/tree/master/Android
         mUserAccount = findViewById(R.id.login_user);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);
         checkPermission(this);
+
+        if (IMFunc.isBrandHuawei()) {
+            // 华为离线推送
+            HMSAgent.connect(this, new ConnectHandler() {
+                @Override
+                public void onConnect(int rst) {
+                    DemoLog.i(TAG, "huawei push HMS connect end:" + rst);
+                }
+            });
+            getHuaWeiPushToken();
+        }
+
         mLoginView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -72,6 +91,9 @@ public class LoginForDevActivity extends Activity {
                     public void onSuccess(Object data) {
                         Intent intent = new Intent(LoginForDevActivity.this, MainActivity.class);
                         startActivity(intent);
+                        TIMOfflinePushSettings settings = new TIMOfflinePushSettings();
+//开启离线推送
+                        settings.setEnabled(true);
                         finish();
                     }
                 });
@@ -134,4 +156,13 @@ public class LoginForDevActivity extends Activity {
         }
     }
 
+    private void getHuaWeiPushToken() {
+        HMSAgent.Push.getToken(new GetTokenHandler() {
+            @Override
+            public void onResult(int rtnCode) {
+                DemoLog.i(TAG, "huawei push get token: end" + rtnCode);
+                Log.e("华为离线", "onResult: "+rtnCode );
+            }
+        });
+    }
 }

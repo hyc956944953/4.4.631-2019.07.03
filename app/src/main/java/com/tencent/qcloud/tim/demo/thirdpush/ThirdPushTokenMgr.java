@@ -1,6 +1,7 @@
 package com.tencent.qcloud.tim.demo.thirdpush;
 
 import android.text.TextUtils;
+import android.util.Log;
 
 import com.tencent.imsdk.TIMCallBack;
 import com.tencent.imsdk.TIMManager;
@@ -15,7 +16,8 @@ import com.tencent.qcloud.tim.demo.utils.Constants;
  */
 
 public class ThirdPushTokenMgr {
-    private static final String TAG = ThirdPushTokenMgr.class.getSimpleName();
+//    private static final String TAG = ThirdPushTokenMgr.class.getSimpleName();
+    private static final String TAG = "ThirdPushTokenMgr";
 
     private String mThirdPushToken;
 
@@ -55,13 +57,14 @@ public class ThirdPushTokenMgr {
         }
         if( !mIsLogin ){
             DemoLog.i(TAG, "setPushTokenToTIM not login, ignore");
-            return;
+//            return;
         }
         TIMOfflinePushToken param = null;
         if(IMFunc.isBrandXiaoMi()){
             param = new TIMOfflinePushToken(Constants.XM_PUSH_BUZID, token);
         }else if(IMFunc.isBrandHuawei()){
             param = new TIMOfflinePushToken(Constants.HW_PUSH_BUZID, token);
+            Log.e(TAG, "华为推送参数设置" );
         }else if(IMFunc.isBrandMeizu()){
             param = new TIMOfflinePushToken(Constants.MZ_PUSH_BUZID, token);
         }else if(IMFunc.isBrandOppo()){
@@ -75,12 +78,14 @@ public class ThirdPushTokenMgr {
             @Override
             public void onError(int code, String desc) {
                 DemoLog.d(TAG, "setOfflinePushToken err code = " + code);
+                Log.e(TAG, "token上报失败"+code );
             }
 
             @Override
             public void onSuccess() {
                 DemoLog.d(TAG, "setOfflinePushToken success");
                 mIsTokenSet = true;
+                Log.e(TAG, "token上报成功" );
             }
         });
     }

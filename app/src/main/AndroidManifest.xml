@@ -14,8 +14,10 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" /> <!-- ********华为推送权限设置******** -->
     <permission
-        android:name="com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG"
+        android:name="com.hyc.IMDemo.permission.PROCESS_PUSH_MSG"
         android:protectionLevel="signatureOrSystem" />
+
+
 
     <uses-permission android:name="com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG" /> <!-- ********小米推送权限设置******** -->
     <permission
@@ -158,10 +160,12 @@
                 <action android:name="com.xiaomi.mipush.ERROR" />
             </intent-filter>
         </receiver> <!-- ********小米推送service和receiver设置end******** -->
+
+
         <!-- ********华为推送设置start******** -->
         <meta-data
             android:name="com.huawei.hms.client.appid"
-            android:value="appid=100642285" />
+            android:value="appid=100795445" />
 
         <provider
             android:name="com.huawei.hms.update.provider.UpdateProvider"

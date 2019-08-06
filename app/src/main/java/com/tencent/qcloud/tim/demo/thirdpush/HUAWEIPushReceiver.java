@@ -28,7 +28,7 @@ public class HUAWEIPushReceiver extends PushReceiver {
 
     @Override
     public void onToken(Context context, String token, Bundle extras) {
-        DemoLog.i(TAG, "onToken:" + token);
+        DemoLog.i(TAG, "onTokenee:" + token);
         ThirdPushTokenMgr.getInstance().setThirdPushToken(token);
         ThirdPushTokenMgr.getInstance().setPushTokenToTIM();
     }

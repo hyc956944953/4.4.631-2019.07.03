@@ -13,7 +13,8 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.tencent.qcloud.tim.tuikit"
+//        applicationId "com.tencent.qcloud.tim.tuikit"
+        applicationId "com.hyc.IMDemo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode rootProject.ext.versionCode

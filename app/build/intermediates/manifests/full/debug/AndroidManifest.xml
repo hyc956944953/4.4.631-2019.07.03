@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tencent.qcloud.tim.tuikit"
+    package="com.hyc.IMDemo"
     android:versionCode="1"
     android:versionName="4.3.81" >
 
@@ -20,7 +20,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" /> <!-- ********华为推送权限设置******** -->
     <permission
-        android:name="com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG"
+        android:name="com.hyc.IMDemo.permission.PROCESS_PUSH_MSG"
         android:protectionLevel="signatureOrSystem" />
 
     <uses-permission android:name="com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG" /> <!-- ********小米推送权限设置******** -->
@@ -181,10 +181,12 @@
                 <action android:name="com.xiaomi.mipush.ERROR" />
             </intent-filter>
         </receiver> <!-- ********小米推送service和receiver设置end******** -->
+
+
         <!-- ********华为推送设置start******** -->
         <meta-data
             android:name="com.huawei.hms.client.appid"
-            android:value="appid=100642285" />
+            android:value="appid=100795445" />
 
         <provider
             android:name="com.huawei.hms.update.provider.UpdateProvider"
@@ -297,7 +299,7 @@
 
         <provider
             android:name="com.squareup.leakcanary.internal.LeakCanaryFileProvider"
-            android:authorities="com.squareup.leakcanary.fileprovider.com.tencent.qcloud.tim.tuikit"
+            android:authorities="com.squareup.leakcanary.fileprovider.com.hyc.IMDemo"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -311,7 +313,7 @@
             android:icon="@mipmap/leak_canary_icon"
             android:label="@string/leak_canary_display_activity_label"
             android:process=":leakcanary"
-            android:taskAffinity="com.squareup.leakcanary.com.tencent.qcloud.tim.tuikit"
+            android:taskAffinity="com.squareup.leakcanary.com.hyc.IMDemo"
             android:theme="@style/leak_canary_LeakCanary.Base" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -327,7 +329,7 @@
             android:label="@string/leak_canary_storage_permission_activity_label"
             android:process=":leakcanary"
             android:roundIcon="@mipmap/leak_canary_icon"
-            android:taskAffinity="com.squareup.leakcanary.com.tencent.qcloud.tim.tuikit"
+            android:taskAffinity="com.squareup.leakcanary.com.hyc.IMDemo"
             android:theme="@style/leak_canary_Theme.Transparent" />
         <activity
             android:name="com.tencent.qcloud.tim.uikit.component.video.CameraActivity"
@@ -355,7 +357,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.tencent.qcloud.tim.tuikit.uikit.fileprovider"
+            android:authorities="com.hyc.IMDemo.uikit.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -381,11 +383,11 @@
 
         <provider
             android:name="com.tencent.stat.SmartProvider"
-            android:authorities="com.tencent.qcloud.tim.tuikit.MTA.SmartProvider"
+            android:authorities="com.hyc.IMDemo.MTA.SmartProvider"
             android:exported="false" />
         <provider
             android:name="com.tencent.mid.api.MidProvider"
-            android:authorities="com.tencent.qcloud.tim.tuikit.TENCENT.MID.V4"
+            android:authorities="com.hyc.IMDemo.TENCENT.MID.V4"
             android:exported="true" >
         </provider>
     </application>

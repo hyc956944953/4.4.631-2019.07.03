@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12
-INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12
-INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12
-INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12
+INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12
+INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12
+INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12
 MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-support-fragment-1.6.2.aar\1abfdc37342908c5b9121da6c259bdeb\AndroidManifest.xml:17:1-25:12
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:17:1-74:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7ba795070e0f1c97eca4513fda0e3685\AndroidManifest.xml:17:1-22:12
@@ -40,20 +40,20 @@ MERGED from [com.tencent.mid:mid:4.06-Release] C:\Users\Administrator\.gradle\ca
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cecb986974fe45bfe062ca00aea8b766\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2cfc702712ef8d73cc1361a5531f8e1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\083b4c13495b542b557b190358bf6472\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12
-INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12
-INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12
+INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12
+INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12
+INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12
 	package
 		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml
 		INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12
 		INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12
 		INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:11-69
@@ -145,56 +145,56 @@ uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
 ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:15:5-83
 	android:name
 		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:15:22-80
-permission#com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG
+permission#com.hyc.IMDemo.permission.PROCESS_PUSH_MSG
 ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:16:5-18:55
 	android:protectionLevel
 		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:18:9-52
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:17:9-81
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:17:9-66
 uses-permission#com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:20:5-97
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:22:5-97
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:20:22-94
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:22:22-94
 permission#com.tencent.qcloud.tim.tuikit.permission.MIPUSH_RECEIVE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:21:5-23:47
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:23:5-25:47
 	android:protectionLevel
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:23:9-44
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:25:9-44
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:22:9-79
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:24:9-79
 uses-permission#com.tencent.qcloud.tim.tuikit.permission.MIPUSH_RECEIVE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:25:5-95
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:27:5-95
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:25:22-92
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:27:22-92
 uses-permission#com.meizu.flyme.push.permission.RECEIVE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:27:5-79
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:29:5-79
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:27:22-76
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:29:22-76
 permission#com.tencent.qcloud.tim.tuikit.push.permission.MESSAGE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:29:5-31:47
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:31:5-33:47
 	android:protectionLevel
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:31:9-44
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:33:9-44
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:30:9-77
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:32:9-77
 uses-permission#com.tencent.qcloud.tim.tuikit.push.permission.MESSAGE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:33:5-93
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:35:5-93
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:33:22-90
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:35:22-90
 uses-permission#com.meizu.c2dm.permission.RECEIVE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:34:5-73
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:36:5-73
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:34:22-70
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:36:22-70
 permission#com.tencent.qcloud.tim.tuikit.permission.C2D_MESSAGE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:36:5-38:47
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:38:5-40:47
 	android:protectionLevel
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:38:9-44
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:40:9-44
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:37:9-76
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:39:9-76
 uses-permission#com.tencent.qcloud.tim.tuikit.permission.C2D_MESSAGE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:40:5-92
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:42:5-92
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:40:22-89
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:42:22-89
 application
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:42:5-265:19
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:44:5-269:19
 MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-support-fragment-1.6.2.aar\1abfdc37342908c5b9121da6c259bdeb\AndroidManifest.xml:22:5-23:19
 MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-support-fragment-1.6.2.aar\1abfdc37342908c5b9121da6c259bdeb\AndroidManifest.xml:22:5-23:19
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:28:5-72:19
@@ -230,407 +230,407 @@ MERGED from [com.qq.mta:mta:3.4.7-release] C:\Users\Administrator\.gradle\caches
 MERGED from [com.tencent.mid:mid:4.06-Release] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mid-4.06-Release.aar\2faa0b4d7c1bbfbc88e4dc399103c322\AndroidManifest.xml:11:5-17:19
 MERGED from [com.tencent.mid:mid:4.06-Release] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mid-4.06-Release.aar\2faa0b4d7c1bbfbc88e4dc399103c322\AndroidManifest.xml:11:5-17:19
 	android:supportsRtl
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:47:9-35
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:49:9-35
 	android:label
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:46:9-41
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:48:9-41
 	android:icon
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:45:9-45
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:47:9-45
 	android:allowBackup
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:44:9-35
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:46:9-35
 	android:theme
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:48:9-40
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:50:9-40
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:43:9-40
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:45:9-40
 activity#com.tencent.qcloud.tim.demo.ChoosePicActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:49:9-64
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:51:9-64
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:49:19-52
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:51:19-52
 activity#com.tencent.qcloud.tim.demo.login.LoginForDevActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:50:9-60:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:52:9-62:20
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:52:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:54:13-49
 	android:theme
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:53:13-47
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:55:13-47
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:51:13-54
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:53:13-54
 intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.LAUNCHER
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:54:13-59:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:56:13-61:29
 action#android.intent.action.VIEW
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:55:17-69
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:57:17-69
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:55:25-66
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:57:25-66
 action#android.intent.action.MAIN
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:56:17-69
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:58:17-69
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:56:25-66
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:58:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:58:17-77
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:60:17-77
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:58:27-74
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:60:27-74
 activity#com.tencent.qcloud.tim.demo.chat.ChatActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:63:9-67:70
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:65:9-69:70
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:66:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:68:13-49
 	android:launchMode
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:65:13-44
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:67:13-44
 	android:windowSoftInputMode
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:67:13-67
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:69:13-67
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:64:13-46
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:66:13-46
 activity#com.tencent.qcloud.tim.demo.main.MainActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:68:9-71:52
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:70:9-73:52
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:71:13-49
-	android:launchMode
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:70:13-44
-	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:69:13-46
-activity#com.tencent.qcloud.tim.demo.menu.AddMoreActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:72:9-74:52
-	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:74:13-49
-	android:name
 		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:73:13-49
+	android:launchMode
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:72:13-44
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:71:13-46
+activity#com.tencent.qcloud.tim.demo.menu.AddMoreActivity
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:74:9-76:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:75:13-49
 activity#com.tencent.qcloud.tim.demo.contact.FriendProfileActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:75:9-77:52
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:77:9-79:52
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:77:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:79:13-49
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:76:13-58
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:78:13-58
 activity#com.tencent.qcloud.tim.demo.contact.NewFriendActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:78:9-80:52
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:80:9-82:52
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:80:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:82:13-49
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:79:13-54
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:81:13-54
 activity#com.tencent.qcloud.tim.demo.contact.BlackListActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:81:9-83:52
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:83:9-85:52
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:83:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:85:13-49
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:82:13-54
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:84:13-54
 activity#com.tencent.qcloud.tim.demo.contact.GroupListActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:84:9-86:52
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:86:9-88:52
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:86:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:88:13-49
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:85:13-54
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:87:13-54
 activity#com.tencent.qcloud.tim.demo.menu.StartC2CChatActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:87:9-89:52
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:89:9-91:52
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:89:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:91:13-49
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:88:13-54
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:90:13-54
 activity#com.tencent.qcloud.tim.demo.profile.WebViewActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:90:9-92:52
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:92:9-94:52
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:92:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:94:13-49
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:91:13-52
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:93:13-52
 activity#com.tencent.qcloud.tim.demo.menu.StartGroupChatActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:93:9-96:73
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:95:9-98:73
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:95:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:97:13-49
 	android:windowSoftInputMode
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:96:13-70
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:98:13-70
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:94:13-56
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:96:13-56
 service#com.tencent.imsdk.session.remote.SessionService
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:97:9-99:42
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:99:9-101:42
 	android:process
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:99:13-39
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:101:13-39
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:98:13-75
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:100:13-75
 service#com.tencent.imsdk.session.remote.AssistService
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:100:9-102:42
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:102:9-104:42
 	android:process
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:102:13-39
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:104:13-39
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:101:13-74
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:103:13-74
 service#com.tencent.imsdk.session.remote.KeepAliveJobService
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:103:9-106:42
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:105:9-108:42
 	android:process
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:106:13-39
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:108:13-39
 	android:permission
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:105:13-69
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:107:13-69
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:104:13-80
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:106:13-80
 receiver#com.tencent.imsdk.session.SessionBroadcastReceiver
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:107:9-113:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:109:9-115:20
 MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:34:9-41:20
 MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:34:9-41:20
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:107:19-84
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:109:19-84
 intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE+com.tencent.imsdk.session.boot
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:108:13-112:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:110:13-114:29
 action#com.tencent.imsdk.session.boot
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:109:17-73
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:111:17-73
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:109:25-70
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:111:25-70
 action#android.intent.action.BOOT_COMPLETED
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:110:17-79
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:112:17-79
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:110:25-76
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:112:25-76
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:111:17-79
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:113:17-79
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:111:25-76
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:113:25-76
 service#com.xiaomi.push.service.XMPushService
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:114:9-117:46
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:116:9-119:46
 	android:process
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:117:13-43
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:119:13-43
 	android:enabled
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:116:13-35
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:118:13-35
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:115:13-65
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:117:13-65
 service#com.xiaomi.push.service.XMJobService
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:118:9-123:46
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:120:9-125:46
 	android:process
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:123:13-43
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:125:13-43
 	android:enabled
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:120:13-35
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:122:13-35
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:121:13-37
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:123:13-37
 	android:permission
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:122:13-69
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:124:13-69
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:119:13-64
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:121:13-64
 service#com.xiaomi.mipush.sdk.PushMessageHandler
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:124:9-127:39
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:126:9-129:39
 	android:enabled
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:126:13-35
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:128:13-35
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:127:13-36
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:129:13-36
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:125:13-68
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:127:13-68
 service#com.xiaomi.mipush.sdk.MessageHandleService
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:128:9-130:38
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:130:9-132:38
 	android:enabled
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:130:13-35
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:132:13-35
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:129:13-70
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:131:13-70
 receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:131:9-139:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:133:9-141:20
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:133:13-36
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:135:13-36
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:132:13-83
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:134:13-83
 intent-filter#android.intent.category.DEFAULT+android.net.conn.CONNECTIVITY_CHANGE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:134:13-138:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:136:13-140:29
 category#android.intent.category.DEFAULT
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:137:17-76
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:139:17-76
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:137:27-73
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:139:27-73
 receiver#com.xiaomi.push.service.receivers.PingReceiver
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:140:9-147:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:142:9-149:20
 	android:process
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:143:13-43
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:145:13-43
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:142:13-37
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:144:13-37
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:141:13-74
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:143:13-74
 intent-filter#com.xiaomi.push.PING_TIMER
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:144:13-146:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:146:13-148:29
 action#com.xiaomi.push.PING_TIMER
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:145:17-69
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:147:17-69
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:145:25-66
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:147:25-66
 receiver#com.tencent.qcloud.tim.demo.thirdpush.XiaomiMsgReceiver
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:148:9-160:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:150:9-162:20
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:150:13-36
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:152:13-36
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:149:13-56
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:151:13-56
 intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:151:13-153:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:153:13-155:29
 action#com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:152:17-76
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:154:17-76
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:152:25-73
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:154:25-73
 intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:154:13-156:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:156:13-158:29
 action#com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:155:17-76
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:157:17-76
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:155:25-73
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:157:25-73
 intent-filter#com.xiaomi.mipush.ERROR
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:157:13-159:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:159:13-161:29
 action#com.xiaomi.mipush.ERROR
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:158:17-66
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:160:17-66
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:158:25-63
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:160:25-63
 meta-data#com.huawei.hms.client.appid
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:162:9-164:47
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:166:9-168:47
 	android:value
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:164:13-44
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:168:13-44
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:163:13-55
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:167:13-55
 provider#com.huawei.hms.update.provider.UpdateProvider
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:166:9-170:50
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:170:9-174:50
 	android:grantUriPermissions
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:170:13-47
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:174:13-47
 	android:authorities
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:168:13-84
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:172:13-84
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:169:13-37
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:173:13-37
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:167:13-73
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:171:13-73
 provider#com.huawei.updatesdk.fileprovider.UpdateSdkFileProvider
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:171:9-175:50
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:175:9-179:50
 	android:grantUriPermissions
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:175:13-47
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:179:13-47
 	android:authorities
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:173:13-87
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:177:13-87
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:174:13-37
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:178:13-37
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:172:13-83
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:176:13-83
 activity#com.huawei.android.hms.agent.common.HMSAgentActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:177:9-187:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:181:9-191:20
 	android:excludeFromRecents
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:180:13-46
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:184:13-46
 	android:hardwareAccelerated
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:182:13-47
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:186:13-47
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:181:13-37
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:185:13-37
 	android:configChanges
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:179:13-92
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:183:13-92
 	android:theme
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:183:13-61
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:187:13-61
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:178:13-80
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:182:13-80
 meta-data#hwc-theme
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:184:13-186:77
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:188:13-190:77
 MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:17:13-19:77
 MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:17:13-19:77
 	android:value
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:186:17-74
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:190:17-74
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:185:17-41
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:189:17-41
 activity#com.huawei.hms.activity.BridgeActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:188:9-198:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:192:9-202:20
 MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:10:9-20:20
 MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:10:9-20:20
 	android:excludeFromRecents
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:191:13-46
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:195:13-46
 	android:hardwareAccelerated
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:193:13-47
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:197:13-47
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:192:13-37
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:196:13-37
 	android:configChanges
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:190:13-92
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:194:13-92
 	android:theme
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:194:13-61
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:198:13-61
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:189:13-66
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:193:13-66
 receiver#com.tencent.qcloud.tim.demo.thirdpush.HUAWEIPushReceiver
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:200:9-212:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:204:9-216:20
 	android:permission
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:202:13-91
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:206:13-91
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:201:13-57
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:205:13-57
 intent-filter#com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION+com.huawei.intent.action.PUSH_DELAY_NOTIFY
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:203:13-211:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:207:13-215:29
 action#com.huawei.android.push.intent.REGISTRATION
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:206:17-86
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:210:17-86
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:206:25-83
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:210:25-83
 action#com.huawei.android.push.intent.RECEIVE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:208:17-81
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:212:17-81
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:208:25-78
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:212:25-78
 action#com.huawei.intent.action.PUSH_DELAY_NOTIFY
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:210:17-85
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:214:17-85
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:210:25-82
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:214:25-82
 service#com.huawei.hms.support.api.push.service.HmsMsgService
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:214:9-223:19
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:218:9-227:19
 	android:process
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:218:13-43
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:222:13-43
 	android:enabled
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:216:13-35
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:220:13-35
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:217:13-36
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:221:13-36
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:215:13-81
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:219:13-81
 intent-filter#com.huawei.push.msg.NOTIFY_MSG+com.huawei.push.msg.PASSBY_MSG
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:219:13-222:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:223:13-226:29
 action#com.huawei.push.msg.NOTIFY_MSG
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:220:17-73
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:224:17-73
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:220:25-70
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:224:25-70
 action#com.huawei.push.msg.PASSBY_MSG
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:221:17-73
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:225:17-73
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:221:25-70
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:225:25-70
 receiver#com.tencent.qcloud.tim.demo.thirdpush.MEIZUPushReceiver
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:225:9-240:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:229:9-244:20
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:225:19-62
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:229:19-62
 intent-filter#com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+com.tencent.qcloud.uipojo.thirdpush
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:226:13-239:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:230:13-243:29
 action#com.meizu.flyme.push.intent.MESSAGE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:229:17-78
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:233:17-78
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:229:25-75
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:233:25-75
 action#com.meizu.flyme.push.intent.REGISTER.FEEDBACK
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:231:17-88
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:235:17-88
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:231:25-85
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:235:25-85
 action#com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:233:17-90
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:237:17-90
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:233:25-87
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:237:25-87
 action#com.meizu.c2dm.intent.REGISTRATION
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:235:17-77
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:239:17-77
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:235:25-74
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:239:25-74
 action#com.meizu.c2dm.intent.RECEIVE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:236:17-72
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:240:17-72
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:236:25-69
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:240:25-69
 category#com.tencent.qcloud.uipojo.thirdpush
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:238:17-80
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:242:17-80
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:238:27-77
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:242:27-77
 service#com.vivo.push.sdk.service.CommandClientService
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:242:9-244:39
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:246:9-248:39
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:244:13-36
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:248:13-36
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:243:13-74
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:247:13-74
 activity#com.vivo.push.sdk.LinkProxyClientActivity
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:246:9-250:75
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:250:9-254:75
 	android:screenOrientation
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:249:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:253:13-49
 	android:exported
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:248:13-37
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:252:13-37
 	android:theme
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:250:13-72
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:254:13-72
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:247:13-69
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:251:13-69
 receiver#com.tencent.qcloud.tim.demo.thirdpush.VIVOPushMessageReceiverImpl
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:251:9-257:20
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:255:9-261:20
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:251:19-72
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:255:19-72
 intent-filter#com.vivo.pushclient.action.RECEIVE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:252:13-256:29
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:256:13-260:29
 action#com.vivo.pushclient.action.RECEIVE
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:255:17-77
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:259:17-77
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:255:25-74
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:259:25-74
 meta-data#com.vivo.push.api_key
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:259:9-261:68
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:263:9-265:68
 	android:value
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:261:13-65
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:265:13-65
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:260:13-49
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:264:13-49
 meta-data#com.vivo.push.app_id
-ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:262:9-264:37
+ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:266:9-268:37
 	android:value
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:264:13-34
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:268:13-34
 	android:name
-		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:263:13-48
+		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:267:13-48
 uses-sdk
 INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml
@@ -719,7 +719,7 @@ INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\
 		INJECTED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:23:5-80
-IMPLIED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-267:12 reason: com.squareup.leakcanary requested WRITE_EXTERNAL_STORAGE
+IMPLIED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:2:1-271:12 reason: com.squareup.leakcanary requested WRITE_EXTERNAL_STORAGE
 MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.631 @2019.07.03\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-80
 MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.631 @2019.07.03\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-80
 MERGED from [com.tencent.qcloud:cosxml:5.4.26] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cosxml-5.4.26.aar\b6dfa41b159691ee7c0f21cfce983a72\AndroidManifest.xml:13:5-80

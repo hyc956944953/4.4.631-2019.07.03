@@ -177,7 +177,6 @@ public class ChoosePicActivity extends AppCompatActivity {
                     String cosPath=imagePath.substring(imagePath.lastIndexOf("/") + 1, imagePath.length());
                     initCosService("1251123904","ap-guangzhou");
                     upload("yaoche",cosPath,imagePath);
-                    updateFaceUrl(cosPath);
 
 
 
@@ -288,7 +287,7 @@ public class ChoosePicActivity extends AppCompatActivity {
      * @params cosPath 上传到 COS 的路径
      * @params localPath 本地文件路径
      */
-    public void upload(String bucket, String cosPath, String localPath) {
+    public void upload(String bucket, final String cosPath, String localPath) {
 
         // 开始上传，并返回生成的 COSXMLUploadTask
         COSXMLUploadTask cosxmlUploadTask = transferManager.upload(bucket, cosPath,
@@ -317,8 +316,9 @@ public class ChoosePicActivity extends AppCompatActivity {
             @Override
             public void onSuccess(CosXmlRequest request, CosXmlResult result) {
                 // TODO: 2018/10/22
-                COSXMLUploadTask.COSXMLUploadTaskResult cOSXMLUploadTaskResult = (COSXMLUploadTask.COSXMLUploadTaskResult)result;
-                Log.e(TAG,  "Success: " + cOSXMLUploadTaskResult.printResult());
+                Toast.makeText(ChoosePicActivity.this, "上传cos成功", Toast.LENGTH_SHORT).show();
+                updateFaceUrl(cosPath);
+                Log.e(TAG,  "上传成功");
             }
 
             @Override
@@ -364,18 +364,20 @@ transferManager = new TransferManager(cosXmlService, transferConfig);
         HashMap<String, Object> hashMap = new HashMap<>();
 
         // 头像
-        String faceUrl ="\thttp://yaoche-1251123904.cosgz.myqcloud.com/"+cosPath;
+        String faceUrl ="http://yaoche-1251123904.cosgz.myqcloud.com/"+cosPath;
             hashMap.put(TIMUserProfile.TIM_PROFILE_TYPE_KEY_FACEURL, faceUrl);
 
         TIMFriendshipManager.getInstance().modifySelfProfile(hashMap, new TIMCallBack() {
             @Override
             public void onError(int i, String s) {
+                Toast.makeText(ChoosePicActivity.this, "修改失败", Toast.LENGTH_SHORT).show();
                 Log.e(TAG, "修改失败");
             }
 
             @Override
             public void onSuccess() {
                 Log.e(TAG, "修改成功");
+                Toast.makeText(ChoosePicActivity.this, "修改成功", Toast.LENGTH_SHORT).show();
 
                 TIMFriendshipManager.getInstance().getSelfProfile(new TIMValueCallBack<TIMUserProfile>() {
                     @Override

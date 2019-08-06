@@ -1,6 +1,7 @@
 package com.tencent.qcloud.tim.uikit.modules.chat.layout.message.holder;
 
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
@@ -11,11 +12,18 @@ import android.widget.TextView;
 
 import com.tencent.imsdk.TIMFriendshipManager;
 import com.tencent.imsdk.TIMUserProfile;
+import com.tencent.imsdk.TIMValueCallBack;
 import com.tencent.qcloud.tim.uikit.R;
 import com.tencent.qcloud.tim.uikit.component.gatherimage.UserIconView;
 import com.tencent.qcloud.tim.uikit.modules.message.MessageInfo;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.security.auth.login.LoginException;
+
 public abstract class MessageContentHolder extends MessageEmptyHolder {
+    private static final String TAG = "MessageContentHolder";
 
     public UserIconView leftUserIcon;
     public UserIconView rightUserIcon;
@@ -72,6 +80,45 @@ public abstract class MessageContentHolder extends MessageEmptyHolder {
             params.height = properties.getAvatarSize()[1];
             rightUserIcon.setLayoutParams(params);
         }
+
+
+        //如果消息为自己发送的
+        if (msg.isSelf()) {
+            TIMFriendshipManager.getInstance().getSelfProfile(new TIMValueCallBack<TIMUserProfile>() {
+                @Override
+                public void onError(int i, String s) {
+                    Log.e(TAG, "获取失败" );
+                }
+
+                @Override
+                public void onSuccess(TIMUserProfile timUserProfile) {
+
+                    List list = new ArrayList();
+                    String faceUrl = timUserProfile.getFaceUrl();
+                  if(faceUrl.length()!=0){
+                      list.add(faceUrl);
+                      //设置右侧头像
+                      rightUserIcon.setIconUrls(list);
+                  }
+
+                }
+            });
+
+        }
+        else{
+
+            TIMUserProfile profile = TIMFriendshipManager.getInstance().queryUserProfile(msg.getFromUser());
+            List list = new ArrayList();
+            String faceUrl = profile.getFaceUrl();
+            if(faceUrl.length()!=0){
+                list.add(faceUrl);
+                leftUserIcon.setIconUrls(list);
+            }
+
+
+
+        }
+
         leftUserIcon.invokeInformation(msg);
         rightUserIcon.invokeInformation(msg);
 

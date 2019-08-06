@@ -18,7 +18,7 @@ public final class Manifest {
     /**
      * ********华为推送权限设置********
      */
-    public static final String PROCESS_PUSH_MSG="com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG";
+    public static final String PROCESS_PUSH_MSG="com.hyc.IMDemo.permission.PROCESS_PUSH_MSG";
   }
 
 }

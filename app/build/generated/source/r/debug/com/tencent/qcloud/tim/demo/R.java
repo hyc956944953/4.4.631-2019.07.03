@@ -4679,35 +4679,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.tencent.qcloud.tim.tuikit:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.tencent.qcloud.tim.tuikit:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.tencent.qcloud.tim.tuikit:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.tencent.qcloud.tim.tuikit:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.tencent.qcloud.tim.tuikit:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.tencent.qcloud.tim.tuikit:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.tencent.qcloud.tim.tuikit:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.tencent.qcloud.tim.tuikit:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.tencent.qcloud.tim.tuikit:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.tencent.qcloud.tim.tuikit:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.tencent.qcloud.tim.tuikit:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.tencent.qcloud.tim.tuikit:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.tencent.qcloud.tim.tuikit:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.tencent.qcloud.tim.tuikit:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.tencent.qcloud.tim.tuikit:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.tencent.qcloud.tim.tuikit:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.tencent.qcloud.tim.tuikit:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.tencent.qcloud.tim.tuikit:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.tencent.qcloud.tim.tuikit:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.tencent.qcloud.tim.tuikit:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.tencent.qcloud.tim.tuikit:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.tencent.qcloud.tim.tuikit:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.tencent.qcloud.tim.tuikit:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.tencent.qcloud.tim.tuikit:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.tencent.qcloud.tim.tuikit:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.tencent.qcloud.tim.tuikit:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.tencent.qcloud.tim.tuikit:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.tencent.qcloud.tim.tuikit:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.tencent.qcloud.tim.tuikit:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.hyc.IMDemo:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.hyc.IMDemo:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.hyc.IMDemo:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.hyc.IMDemo:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.hyc.IMDemo:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.hyc.IMDemo:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.hyc.IMDemo:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.hyc.IMDemo:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.hyc.IMDemo:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.hyc.IMDemo:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.hyc.IMDemo:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.hyc.IMDemo:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.hyc.IMDemo:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.hyc.IMDemo:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.hyc.IMDemo:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.hyc.IMDemo:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.hyc.IMDemo:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.hyc.IMDemo:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.hyc.IMDemo:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.hyc.IMDemo:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.hyc.IMDemo:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.hyc.IMDemo:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.hyc.IMDemo:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.hyc.IMDemo:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.hyc.IMDemo:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.hyc.IMDemo:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.hyc.IMDemo:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.hyc.IMDemo:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.hyc.IMDemo:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -4793,7 +4793,7 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4801,11 +4801,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:background
+     * @attr name com.hyc.IMDemo:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4816,11 +4816,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:backgroundSplit
+     * @attr name com.hyc.IMDemo:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4831,11 +4831,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:backgroundStacked
+     * @attr name com.hyc.IMDemo:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4844,11 +4844,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetEnd
+     * @attr name com.hyc.IMDemo:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4857,11 +4857,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetEndWithActions
+     * @attr name com.hyc.IMDemo:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4870,11 +4870,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetLeft
+     * @attr name com.hyc.IMDemo:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4883,11 +4883,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetRight
+     * @attr name com.hyc.IMDemo:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4896,11 +4896,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetStart
+     * @attr name com.hyc.IMDemo:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4909,11 +4909,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetStartWithNavigation
+     * @attr name com.hyc.IMDemo:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4921,11 +4921,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:customNavigationLayout
+     * @attr name com.hyc.IMDemo:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4943,11 +4943,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:displayOptions
+     * @attr name com.hyc.IMDemo:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4955,11 +4955,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:divider
+     * @attr name com.hyc.IMDemo:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4968,11 +4968,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:elevation
+     * @attr name com.hyc.IMDemo:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4981,21 +4981,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:height
+     * @attr name com.hyc.IMDemo:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:hideOnContentScroll
+     * @attr name com.hyc.IMDemo:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5003,11 +5003,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:homeAsUpIndicator
+     * @attr name com.hyc.IMDemo:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5015,11 +5015,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:homeLayout
+     * @attr name com.hyc.IMDemo:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5027,11 +5027,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:icon
+     * @attr name com.hyc.IMDemo:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5039,11 +5039,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:indeterminateProgressStyle
+     * @attr name com.hyc.IMDemo:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5052,11 +5052,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:itemPadding
+     * @attr name com.hyc.IMDemo:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5064,11 +5064,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:logo
+     * @attr name com.hyc.IMDemo:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5082,11 +5082,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:navigationMode
+     * @attr name com.hyc.IMDemo:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5094,11 +5094,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:popupTheme
+     * @attr name com.hyc.IMDemo:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5107,11 +5107,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:progressBarPadding
+     * @attr name com.hyc.IMDemo:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5119,21 +5119,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:progressBarStyle
+     * @attr name com.hyc.IMDemo:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:subtitle
+     * @attr name com.hyc.IMDemo:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5141,21 +5141,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:subtitleTextStyle
+     * @attr name com.hyc.IMDemo:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:title
+     * @attr name com.hyc.IMDemo:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5163,7 +5163,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleTextStyle
+     * @attr name com.hyc.IMDemo:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -5202,12 +5202,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.tencent.qcloud.tim.tuikit:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.tencent.qcloud.tim.tuikit:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.tencent.qcloud.tim.tuikit:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.tencent.qcloud.tim.tuikit:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.tencent.qcloud.tim.tuikit:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.tencent.qcloud.tim.tuikit:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.hyc.IMDemo:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.hyc.IMDemo:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.hyc.IMDemo:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.hyc.IMDemo:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.hyc.IMDemo:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.hyc.IMDemo:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -5221,7 +5221,7 @@ public final class R {
         0x7f030135, 0x7f03015d
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5229,11 +5229,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:background
+     * @attr name com.hyc.IMDemo:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5244,11 +5244,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:backgroundSplit
+     * @attr name com.hyc.IMDemo:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5256,11 +5256,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:closeItemLayout
+     * @attr name com.hyc.IMDemo:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5269,11 +5269,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:height
+     * @attr name com.hyc.IMDemo:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5281,11 +5281,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:subtitleTextStyle
+     * @attr name com.hyc.IMDemo:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5293,7 +5293,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleTextStyle
+     * @attr name com.hyc.IMDemo:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -5303,8 +5303,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.tencent.qcloud.tim.tuikit:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.tencent.qcloud.tim.tuikit:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.hyc.IMDemo:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.hyc.IMDemo:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -5313,7 +5313,7 @@ public final class R {
         0x7f030084, 0x7f0300a8
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5321,17 +5321,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:expandActivityOverflowButtonDrawable
+     * @attr name com.hyc.IMDemo:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:initialActivityCount
+     * @attr name com.hyc.IMDemo:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -5342,13 +5342,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.tencent.qcloud.tim.tuikit:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.tencent.qcloud.tim.tuikit:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.tencent.qcloud.tim.tuikit:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.tencent.qcloud.tim.tuikit:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.tencent.qcloud.tim.tuikit:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.tencent.qcloud.tim.tuikit:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.tencent.qcloud.tim.tuikit:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.hyc.IMDemo:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.hyc.IMDemo:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.hyc.IMDemo:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.hyc.IMDemo:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.hyc.IMDemo:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.hyc.IMDemo:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.hyc.IMDemo:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -5376,7 +5376,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5385,11 +5385,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonIconDimen
+     * @attr name com.hyc.IMDemo:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5397,11 +5397,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonPanelSideLayout
+     * @attr name com.hyc.IMDemo:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5409,11 +5409,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listItemLayout
+     * @attr name com.hyc.IMDemo:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5421,11 +5421,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listLayout
+     * @attr name com.hyc.IMDemo:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5433,21 +5433,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:multiChoiceItemLayout
+     * @attr name com.hyc.IMDemo:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:showTitle
+     * @attr name com.hyc.IMDemo:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5455,7 +5455,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:singleChoiceItemLayout
+     * @attr name com.hyc.IMDemo:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -5466,9 +5466,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.tencent.qcloud.tim.tuikit:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.tencent.qcloud.tim.tuikit:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.tencent.qcloud.tim.tuikit:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.hyc.IMDemo:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.hyc.IMDemo:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.hyc.IMDemo:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -5494,7 +5494,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5502,22 +5502,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:srcCompat
+     * @attr name com.hyc.IMDemo:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:tint
+     * @attr name com.hyc.IMDemo:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5534,7 +5534,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:tintMode
+     * @attr name com.hyc.IMDemo:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -5545,9 +5545,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.tencent.qcloud.tim.tuikit:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.tencent.qcloud.tim.tuikit:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.tencent.qcloud.tim.tuikit:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.hyc.IMDemo:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.hyc.IMDemo:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.hyc.IMDemo:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -5570,7 +5570,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5578,22 +5578,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:tickMark
+     * @attr name com.hyc.IMDemo:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:tickMarkTint
+     * @attr name com.hyc.IMDemo:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5610,7 +5610,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:tickMarkTintMode
+     * @attr name com.hyc.IMDemo:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -5750,13 +5750,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.tencent.qcloud.tim.tuikit:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.tencent.qcloud.tim.tuikit:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.tencent.qcloud.tim.tuikit:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.tencent.qcloud.tim.tuikit:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.tencent.qcloud.tim.tuikit:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.tencent.qcloud.tim.tuikit:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.tencent.qcloud.tim.tuikit:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.hyc.IMDemo:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.hyc.IMDemo:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.hyc.IMDemo:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.hyc.IMDemo:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.hyc.IMDemo:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.hyc.IMDemo:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.hyc.IMDemo:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -5784,7 +5784,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5793,11 +5793,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:autoSizeMaxTextSize
+     * @attr name com.hyc.IMDemo:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5806,11 +5806,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:autoSizeMinTextSize
+     * @attr name com.hyc.IMDemo:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5818,11 +5818,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:autoSizePresetSizes
+     * @attr name com.hyc.IMDemo:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5831,11 +5831,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:autoSizeStepGranularity
+     * @attr name com.hyc.IMDemo:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5848,21 +5848,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:autoSizeTextType
+     * @attr name com.hyc.IMDemo:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontFamily
+     * @attr name com.hyc.IMDemo:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5872,7 +5872,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAllCaps
+     * @attr name com.hyc.IMDemo:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -5884,124 +5884,124 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.tencent.qcloud.tim.tuikit:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.tencent.qcloud.tim.tuikit:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.tencent.qcloud.tim.tuikit:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.tencent.qcloud.tim.tuikit:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.tencent.qcloud.tim.tuikit:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.tencent.qcloud.tim.tuikit:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.tencent.qcloud.tim.tuikit:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.tencent.qcloud.tim.tuikit:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.tencent.qcloud.tim.tuikit:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.tencent.qcloud.tim.tuikit:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.tencent.qcloud.tim.tuikit:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.tencent.qcloud.tim.tuikit:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.tencent.qcloud.tim.tuikit:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.tencent.qcloud.tim.tuikit:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.tencent.qcloud.tim.tuikit:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.tencent.qcloud.tim.tuikit:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.tencent.qcloud.tim.tuikit:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.tencent.qcloud.tim.tuikit:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.tencent.qcloud.tim.tuikit:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.tencent.qcloud.tim.tuikit:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.tencent.qcloud.tim.tuikit:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.tencent.qcloud.tim.tuikit:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.tencent.qcloud.tim.tuikit:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.tencent.qcloud.tim.tuikit:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.tencent.qcloud.tim.tuikit:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.tencent.qcloud.tim.tuikit:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.tencent.qcloud.tim.tuikit:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.tencent.qcloud.tim.tuikit:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.tencent.qcloud.tim.tuikit:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.tencent.qcloud.tim.tuikit:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.tencent.qcloud.tim.tuikit:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.tencent.qcloud.tim.tuikit:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.tencent.qcloud.tim.tuikit:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.tencent.qcloud.tim.tuikit:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.tencent.qcloud.tim.tuikit:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.tencent.qcloud.tim.tuikit:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.tencent.qcloud.tim.tuikit:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.tencent.qcloud.tim.tuikit:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.tencent.qcloud.tim.tuikit:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.tencent.qcloud.tim.tuikit:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.tencent.qcloud.tim.tuikit:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.tencent.qcloud.tim.tuikit:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.tencent.qcloud.tim.tuikit:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.tencent.qcloud.tim.tuikit:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.tencent.qcloud.tim.tuikit:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.tencent.qcloud.tim.tuikit:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.tencent.qcloud.tim.tuikit:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.tencent.qcloud.tim.tuikit:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.tencent.qcloud.tim.tuikit:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.tencent.qcloud.tim.tuikit:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.tencent.qcloud.tim.tuikit:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.tencent.qcloud.tim.tuikit:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.tencent.qcloud.tim.tuikit:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.tencent.qcloud.tim.tuikit:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.tencent.qcloud.tim.tuikit:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.tencent.qcloud.tim.tuikit:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.tencent.qcloud.tim.tuikit:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.tencent.qcloud.tim.tuikit:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.tencent.qcloud.tim.tuikit:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.tencent.qcloud.tim.tuikit:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.tencent.qcloud.tim.tuikit:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.tencent.qcloud.tim.tuikit:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.tencent.qcloud.tim.tuikit:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.tencent.qcloud.tim.tuikit:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.tencent.qcloud.tim.tuikit:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.tencent.qcloud.tim.tuikit:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.tencent.qcloud.tim.tuikit:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.tencent.qcloud.tim.tuikit:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.tencent.qcloud.tim.tuikit:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.tencent.qcloud.tim.tuikit:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.tencent.qcloud.tim.tuikit:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.tencent.qcloud.tim.tuikit:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.tencent.qcloud.tim.tuikit:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.tencent.qcloud.tim.tuikit:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.tencent.qcloud.tim.tuikit:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.tencent.qcloud.tim.tuikit:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.tencent.qcloud.tim.tuikit:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.tencent.qcloud.tim.tuikit:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.tencent.qcloud.tim.tuikit:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.tencent.qcloud.tim.tuikit:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.tencent.qcloud.tim.tuikit:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.tencent.qcloud.tim.tuikit:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.tencent.qcloud.tim.tuikit:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.tencent.qcloud.tim.tuikit:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.tencent.qcloud.tim.tuikit:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.tencent.qcloud.tim.tuikit:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.tencent.qcloud.tim.tuikit:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.tencent.qcloud.tim.tuikit:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.tencent.qcloud.tim.tuikit:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.tencent.qcloud.tim.tuikit:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.tencent.qcloud.tim.tuikit:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.tencent.qcloud.tim.tuikit:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.tencent.qcloud.tim.tuikit:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.tencent.qcloud.tim.tuikit:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.tencent.qcloud.tim.tuikit:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.tencent.qcloud.tim.tuikit:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.tencent.qcloud.tim.tuikit:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.tencent.qcloud.tim.tuikit:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.tencent.qcloud.tim.tuikit:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.tencent.qcloud.tim.tuikit:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.tencent.qcloud.tim.tuikit:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.tencent.qcloud.tim.tuikit:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.tencent.qcloud.tim.tuikit:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.tencent.qcloud.tim.tuikit:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.tencent.qcloud.tim.tuikit:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.tencent.qcloud.tim.tuikit:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.tencent.qcloud.tim.tuikit:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.tencent.qcloud.tim.tuikit:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.tencent.qcloud.tim.tuikit:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.tencent.qcloud.tim.tuikit:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.tencent.qcloud.tim.tuikit:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.tencent.qcloud.tim.tuikit:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.tencent.qcloud.tim.tuikit:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.tencent.qcloud.tim.tuikit:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.tencent.qcloud.tim.tuikit:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.tencent.qcloud.tim.tuikit:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.tencent.qcloud.tim.tuikit:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.tencent.qcloud.tim.tuikit:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.hyc.IMDemo:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.hyc.IMDemo:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.hyc.IMDemo:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.hyc.IMDemo:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.hyc.IMDemo:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.hyc.IMDemo:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.hyc.IMDemo:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.hyc.IMDemo:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.hyc.IMDemo:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.hyc.IMDemo:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.hyc.IMDemo:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.hyc.IMDemo:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.hyc.IMDemo:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.hyc.IMDemo:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.hyc.IMDemo:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.hyc.IMDemo:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.hyc.IMDemo:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.hyc.IMDemo:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.hyc.IMDemo:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.hyc.IMDemo:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.hyc.IMDemo:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.hyc.IMDemo:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.hyc.IMDemo:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.hyc.IMDemo:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.hyc.IMDemo:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.hyc.IMDemo:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.hyc.IMDemo:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.hyc.IMDemo:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.hyc.IMDemo:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.hyc.IMDemo:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.hyc.IMDemo:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.hyc.IMDemo:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.hyc.IMDemo:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.hyc.IMDemo:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.hyc.IMDemo:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.hyc.IMDemo:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.hyc.IMDemo:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.hyc.IMDemo:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.hyc.IMDemo:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.hyc.IMDemo:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.hyc.IMDemo:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.hyc.IMDemo:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.hyc.IMDemo:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.hyc.IMDemo:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.hyc.IMDemo:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.hyc.IMDemo:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.hyc.IMDemo:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.hyc.IMDemo:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.hyc.IMDemo:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.hyc.IMDemo:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.hyc.IMDemo:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.hyc.IMDemo:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.hyc.IMDemo:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.hyc.IMDemo:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.hyc.IMDemo:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.hyc.IMDemo:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.hyc.IMDemo:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.hyc.IMDemo:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.hyc.IMDemo:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.hyc.IMDemo:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.hyc.IMDemo:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.hyc.IMDemo:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.hyc.IMDemo:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.hyc.IMDemo:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.hyc.IMDemo:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.hyc.IMDemo:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.hyc.IMDemo:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.hyc.IMDemo:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.hyc.IMDemo:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.hyc.IMDemo:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.hyc.IMDemo:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.hyc.IMDemo:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.hyc.IMDemo:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.hyc.IMDemo:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.hyc.IMDemo:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.hyc.IMDemo:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.hyc.IMDemo:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.hyc.IMDemo:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.hyc.IMDemo:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.hyc.IMDemo:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.hyc.IMDemo:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.hyc.IMDemo:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.hyc.IMDemo:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.hyc.IMDemo:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.hyc.IMDemo:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.hyc.IMDemo:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.hyc.IMDemo:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.hyc.IMDemo:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.hyc.IMDemo:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.hyc.IMDemo:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.hyc.IMDemo:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.hyc.IMDemo:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.hyc.IMDemo:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.hyc.IMDemo:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.hyc.IMDemo:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.hyc.IMDemo:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.hyc.IMDemo:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.hyc.IMDemo:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.hyc.IMDemo:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.hyc.IMDemo:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.hyc.IMDemo:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.hyc.IMDemo:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.hyc.IMDemo:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.hyc.IMDemo:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.hyc.IMDemo:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.hyc.IMDemo:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.hyc.IMDemo:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.hyc.IMDemo:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.hyc.IMDemo:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.hyc.IMDemo:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.hyc.IMDemo:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.hyc.IMDemo:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.hyc.IMDemo:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.hyc.IMDemo:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.hyc.IMDemo:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.hyc.IMDemo:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.hyc.IMDemo:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.hyc.IMDemo:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -6157,7 +6157,7 @@ public final class R {
         0x7f030175, 0x7f030176, 0x7f030177, 0x7f030178
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6165,11 +6165,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarDivider
+     * @attr name com.hyc.IMDemo:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6177,11 +6177,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarItemBackground
+     * @attr name com.hyc.IMDemo:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6189,11 +6189,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarPopupTheme
+     * @attr name com.hyc.IMDemo:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6210,11 +6210,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarSize
+     * @attr name com.hyc.IMDemo:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6222,11 +6222,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarSplitStyle
+     * @attr name com.hyc.IMDemo:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6234,11 +6234,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarStyle
+     * @attr name com.hyc.IMDemo:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6246,11 +6246,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarTabBarStyle
+     * @attr name com.hyc.IMDemo:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6258,11 +6258,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarTabStyle
+     * @attr name com.hyc.IMDemo:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6270,11 +6270,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarTabTextStyle
+     * @attr name com.hyc.IMDemo:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6282,11 +6282,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarTheme
+     * @attr name com.hyc.IMDemo:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6294,11 +6294,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionBarWidgetTheme
+     * @attr name com.hyc.IMDemo:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6306,11 +6306,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionButtonStyle
+     * @attr name com.hyc.IMDemo:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6318,11 +6318,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionDropDownStyle
+     * @attr name com.hyc.IMDemo:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6330,11 +6330,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionMenuTextAppearance
+     * @attr name com.hyc.IMDemo:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6345,11 +6345,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionMenuTextColor
+     * @attr name com.hyc.IMDemo:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6357,11 +6357,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeBackground
+     * @attr name com.hyc.IMDemo:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6369,11 +6369,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeCloseButtonStyle
+     * @attr name com.hyc.IMDemo:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6381,11 +6381,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeCloseDrawable
+     * @attr name com.hyc.IMDemo:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6393,11 +6393,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeCopyDrawable
+     * @attr name com.hyc.IMDemo:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6405,11 +6405,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeCutDrawable
+     * @attr name com.hyc.IMDemo:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6417,11 +6417,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeFindDrawable
+     * @attr name com.hyc.IMDemo:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6429,11 +6429,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModePasteDrawable
+     * @attr name com.hyc.IMDemo:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6441,11 +6441,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModePopupWindowStyle
+     * @attr name com.hyc.IMDemo:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6453,11 +6453,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeSelectAllDrawable
+     * @attr name com.hyc.IMDemo:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6465,11 +6465,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeShareDrawable
+     * @attr name com.hyc.IMDemo:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6477,11 +6477,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeSplitBackground
+     * @attr name com.hyc.IMDemo:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6489,11 +6489,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeStyle
+     * @attr name com.hyc.IMDemo:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6501,11 +6501,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionModeWebSearchDrawable
+     * @attr name com.hyc.IMDemo:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6513,11 +6513,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionOverflowButtonStyle
+     * @attr name com.hyc.IMDemo:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6525,11 +6525,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionOverflowMenuStyle
+     * @attr name com.hyc.IMDemo:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6537,11 +6537,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:activityChooserViewStyle
+     * @attr name com.hyc.IMDemo:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6549,21 +6549,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:alertDialogButtonGroupStyle
+     * @attr name com.hyc.IMDemo:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:alertDialogCenterButtons
+     * @attr name com.hyc.IMDemo:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6571,11 +6571,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:alertDialogStyle
+     * @attr name com.hyc.IMDemo:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6583,7 +6583,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:alertDialogTheme
+     * @attr name com.hyc.IMDemo:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -6609,7 +6609,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowIsFloating=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6617,11 +6617,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:autoCompleteTextViewStyle
+     * @attr name com.hyc.IMDemo:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6629,11 +6629,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:borderlessButtonStyle
+     * @attr name com.hyc.IMDemo:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6641,11 +6641,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonBarButtonStyle
+     * @attr name com.hyc.IMDemo:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6653,11 +6653,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonBarNegativeButtonStyle
+     * @attr name com.hyc.IMDemo:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6665,11 +6665,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonBarNeutralButtonStyle
+     * @attr name com.hyc.IMDemo:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6677,11 +6677,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonBarPositiveButtonStyle
+     * @attr name com.hyc.IMDemo:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6689,11 +6689,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonBarStyle
+     * @attr name com.hyc.IMDemo:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6701,11 +6701,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonStyle
+     * @attr name com.hyc.IMDemo:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6713,11 +6713,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonStyleSmall
+     * @attr name com.hyc.IMDemo:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6725,11 +6725,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:checkboxStyle
+     * @attr name com.hyc.IMDemo:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6737,77 +6737,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:checkedTextViewStyle
+     * @attr name com.hyc.IMDemo:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorAccent
+     * @attr name com.hyc.IMDemo:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorBackgroundFloating
+     * @attr name com.hyc.IMDemo:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorButtonNormal
+     * @attr name com.hyc.IMDemo:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorControlActivated
+     * @attr name com.hyc.IMDemo:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorControlHighlight
+     * @attr name com.hyc.IMDemo:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorControlNormal
+     * @attr name com.hyc.IMDemo:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6818,44 +6818,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorError
+     * @attr name com.hyc.IMDemo:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorPrimary
+     * @attr name com.hyc.IMDemo:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorPrimaryDark
+     * @attr name com.hyc.IMDemo:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:colorSwitchThumbNormal
+     * @attr name com.hyc.IMDemo:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6863,11 +6863,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:controlBackground
+     * @attr name com.hyc.IMDemo:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6876,11 +6876,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:dialogPreferredPadding
+     * @attr name com.hyc.IMDemo:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6888,11 +6888,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:dialogTheme
+     * @attr name com.hyc.IMDemo:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6900,11 +6900,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:dividerHorizontal
+     * @attr name com.hyc.IMDemo:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6912,11 +6912,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:dividerVertical
+     * @attr name com.hyc.IMDemo:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6924,11 +6924,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:dropDownListViewStyle
+     * @attr name com.hyc.IMDemo:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6937,11 +6937,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:dropdownListPreferredItemHeight
+     * @attr name com.hyc.IMDemo:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6949,11 +6949,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:editTextBackground
+     * @attr name com.hyc.IMDemo:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6964,11 +6964,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:editTextColor
+     * @attr name com.hyc.IMDemo:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6976,11 +6976,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:editTextStyle
+     * @attr name com.hyc.IMDemo:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6988,11 +6988,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:homeAsUpIndicator
+     * @attr name com.hyc.IMDemo:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7000,11 +7000,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:imageButtonStyle
+     * @attr name com.hyc.IMDemo:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7012,11 +7012,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listChoiceBackgroundIndicator
+     * @attr name com.hyc.IMDemo:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7024,11 +7024,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listDividerAlertDialog
+     * @attr name com.hyc.IMDemo:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7036,11 +7036,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listMenuViewStyle
+     * @attr name com.hyc.IMDemo:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7048,11 +7048,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listPopupWindowStyle
+     * @attr name com.hyc.IMDemo:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7061,11 +7061,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listPreferredItemHeight
+     * @attr name com.hyc.IMDemo:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7074,11 +7074,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listPreferredItemHeightLarge
+     * @attr name com.hyc.IMDemo:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7087,11 +7087,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listPreferredItemHeightSmall
+     * @attr name com.hyc.IMDemo:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7100,11 +7100,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listPreferredItemPaddingLeft
+     * @attr name com.hyc.IMDemo:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7113,11 +7113,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:listPreferredItemPaddingRight
+     * @attr name com.hyc.IMDemo:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7125,11 +7125,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:panelBackground
+     * @attr name com.hyc.IMDemo:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7137,11 +7137,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:panelMenuListTheme
+     * @attr name com.hyc.IMDemo:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7150,11 +7150,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:panelMenuListWidth
+     * @attr name com.hyc.IMDemo:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7162,11 +7162,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:popupMenuStyle
+     * @attr name com.hyc.IMDemo:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7174,11 +7174,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:popupWindowStyle
+     * @attr name com.hyc.IMDemo:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7186,11 +7186,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:radioButtonStyle
+     * @attr name com.hyc.IMDemo:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7198,11 +7198,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:ratingBarStyle
+     * @attr name com.hyc.IMDemo:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7210,11 +7210,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:ratingBarStyleIndicator
+     * @attr name com.hyc.IMDemo:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7222,11 +7222,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:ratingBarStyleSmall
+     * @attr name com.hyc.IMDemo:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7234,11 +7234,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:searchViewStyle
+     * @attr name com.hyc.IMDemo:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7246,11 +7246,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:seekBarStyle
+     * @attr name com.hyc.IMDemo:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7258,11 +7258,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:selectableItemBackground
+     * @attr name com.hyc.IMDemo:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7270,11 +7270,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:selectableItemBackgroundBorderless
+     * @attr name com.hyc.IMDemo:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7282,11 +7282,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:spinnerDropDownItemStyle
+     * @attr name com.hyc.IMDemo:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7294,11 +7294,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:spinnerStyle
+     * @attr name com.hyc.IMDemo:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7306,11 +7306,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:switchStyle
+     * @attr name com.hyc.IMDemo:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7318,11 +7318,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAppearanceLargePopupMenu
+     * @attr name com.hyc.IMDemo:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7330,11 +7330,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAppearanceListItem
+     * @attr name com.hyc.IMDemo:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7342,11 +7342,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAppearanceListItemSecondary
+     * @attr name com.hyc.IMDemo:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7354,11 +7354,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAppearanceListItemSmall
+     * @attr name com.hyc.IMDemo:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7366,11 +7366,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAppearancePopupMenuHeader
+     * @attr name com.hyc.IMDemo:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7378,11 +7378,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAppearanceSearchResultSubtitle
+     * @attr name com.hyc.IMDemo:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7390,11 +7390,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAppearanceSearchResultTitle
+     * @attr name com.hyc.IMDemo:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7402,11 +7402,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAppearanceSmallPopupMenu
+     * @attr name com.hyc.IMDemo:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7417,11 +7417,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textColorAlertDialogListItem
+     * @attr name com.hyc.IMDemo:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7432,11 +7432,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textColorSearchUrl
+     * @attr name com.hyc.IMDemo:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7444,11 +7444,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:toolbarNavigationButtonStyle
+     * @attr name com.hyc.IMDemo:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7456,11 +7456,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:toolbarStyle
+     * @attr name com.hyc.IMDemo:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7471,11 +7471,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:tooltipForegroundColor
+     * @attr name com.hyc.IMDemo:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7483,51 +7483,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:tooltipFrameBackground
+     * @attr name com.hyc.IMDemo:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:viewInflaterClass
+     * @attr name com.hyc.IMDemo:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=109;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowActionBar
+     * @attr name com.hyc.IMDemo:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=110;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowActionBarOverlay
+     * @attr name com.hyc.IMDemo:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowActionModeOverlay
+     * @attr name com.hyc.IMDemo:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7540,11 +7540,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowFixedHeightMajor
+     * @attr name com.hyc.IMDemo:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7557,11 +7557,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowFixedHeightMinor
+     * @attr name com.hyc.IMDemo:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7574,11 +7574,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowFixedWidthMajor
+     * @attr name com.hyc.IMDemo:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7591,11 +7591,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowFixedWidthMinor
+     * @attr name com.hyc.IMDemo:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7608,11 +7608,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowMinWidthMajor
+     * @attr name com.hyc.IMDemo:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7625,17 +7625,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowMinWidthMinor
+     * @attr name com.hyc.IMDemo:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=118;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:windowNoTitle
+     * @attr name com.hyc.IMDemo:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=119;
     /**
@@ -7645,7 +7645,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.tencent.qcloud.tim.tuikit:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.hyc.IMDemo:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -7653,13 +7653,13 @@ public final class R {
         0x7f03002c
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:allowStacking
+     * @attr name com.hyc.IMDemo:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -7671,7 +7671,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.tencent.qcloud.tim.tuikit:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.hyc.IMDemo:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -7681,12 +7681,12 @@ public final class R {
         0x010101a5, 0x0101031f, 0x7f03002d
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:alpha
+     * @attr name com.hyc.IMDemo:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -7717,8 +7717,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.tencent.qcloud.tim.tuikit:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.tencent.qcloud.tim.tuikit:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.hyc.IMDemo:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.hyc.IMDemo:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -7740,18 +7740,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonTint
+     * @attr name com.hyc.IMDemo:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7768,7 +7768,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonTintMode
+     * @attr name com.hyc.IMDemo:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -7783,61 +7783,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.tencent.qcloud.tim.tuikit:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.tencent.qcloud.tim.tuikit:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.tencent.qcloud.tim.tuikit:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.tencent.qcloud.tim.tuikit:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.tencent.qcloud.tim.tuikit:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.tencent.qcloud.tim.tuikit:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.tencent.qcloud.tim.tuikit:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.tencent.qcloud.tim.tuikit:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.tencent.qcloud.tim.tuikit:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.tencent.qcloud.tim.tuikit:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.tencent.qcloud.tim.tuikit:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.tencent.qcloud.tim.tuikit:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.tencent.qcloud.tim.tuikit:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.tencent.qcloud.tim.tuikit:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.tencent.qcloud.tim.tuikit:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.tencent.qcloud.tim.tuikit:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.tencent.qcloud.tim.tuikit:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.tencent.qcloud.tim.tuikit:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.tencent.qcloud.tim.tuikit:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.tencent.qcloud.tim.tuikit:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.tencent.qcloud.tim.tuikit:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.tencent.qcloud.tim.tuikit:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.tencent.qcloud.tim.tuikit:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.tencent.qcloud.tim.tuikit:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.tencent.qcloud.tim.tuikit:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.tencent.qcloud.tim.tuikit:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.tencent.qcloud.tim.tuikit:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.tencent.qcloud.tim.tuikit:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.tencent.qcloud.tim.tuikit:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.tencent.qcloud.tim.tuikit:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.tencent.qcloud.tim.tuikit:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.tencent.qcloud.tim.tuikit:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.tencent.qcloud.tim.tuikit:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.tencent.qcloud.tim.tuikit:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.tencent.qcloud.tim.tuikit:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.tencent.qcloud.tim.tuikit:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.tencent.qcloud.tim.tuikit:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.tencent.qcloud.tim.tuikit:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.tencent.qcloud.tim.tuikit:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.tencent.qcloud.tim.tuikit:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.tencent.qcloud.tim.tuikit:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.tencent.qcloud.tim.tuikit:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.tencent.qcloud.tim.tuikit:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.tencent.qcloud.tim.tuikit:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.tencent.qcloud.tim.tuikit:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.tencent.qcloud.tim.tuikit:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.tencent.qcloud.tim.tuikit:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.tencent.qcloud.tim.tuikit:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.tencent.qcloud.tim.tuikit:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.tencent.qcloud.tim.tuikit:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.tencent.qcloud.tim.tuikit:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.tencent.qcloud.tim.tuikit:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.hyc.IMDemo:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.hyc.IMDemo:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.hyc.IMDemo:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.hyc.IMDemo:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.hyc.IMDemo:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.hyc.IMDemo:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.hyc.IMDemo:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.hyc.IMDemo:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.hyc.IMDemo:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.hyc.IMDemo:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.hyc.IMDemo:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.hyc.IMDemo:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.hyc.IMDemo:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.hyc.IMDemo:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.hyc.IMDemo:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.hyc.IMDemo:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.hyc.IMDemo:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.hyc.IMDemo:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.hyc.IMDemo:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.hyc.IMDemo:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.hyc.IMDemo:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.hyc.IMDemo:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.hyc.IMDemo:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.hyc.IMDemo:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.hyc.IMDemo:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.hyc.IMDemo:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.hyc.IMDemo:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.hyc.IMDemo:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.hyc.IMDemo:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.hyc.IMDemo:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.hyc.IMDemo:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.hyc.IMDemo:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.hyc.IMDemo:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.hyc.IMDemo:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.hyc.IMDemo:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.hyc.IMDemo:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.hyc.IMDemo:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.hyc.IMDemo:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.hyc.IMDemo:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.hyc.IMDemo:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.hyc.IMDemo:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.hyc.IMDemo:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.hyc.IMDemo:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.hyc.IMDemo:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.hyc.IMDemo:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.hyc.IMDemo:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.hyc.IMDemo:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.hyc.IMDemo:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.hyc.IMDemo:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.hyc.IMDemo:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.hyc.IMDemo:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.hyc.IMDemo:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.hyc.IMDemo:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.hyc.IMDemo:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.hyc.IMDemo:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -7987,17 +7987,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:barrierAllowsGoneWidgets
+     * @attr name com.hyc.IMDemo:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8014,21 +8014,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:barrierDirection
+     * @attr name com.hyc.IMDemo:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:chainUseRtl
+     * @attr name com.hyc.IMDemo:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8036,50 +8036,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:constraintSet
+     * @attr name com.hyc.IMDemo:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:constraint_referenced_ids
+     * @attr name com.hyc.IMDemo:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constrainedHeight
+     * @attr name com.hyc.IMDemo:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constrainedWidth
+     * @attr name com.hyc.IMDemo:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBaseline_creator
+     * @attr name com.hyc.IMDemo:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8095,20 +8095,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBaseline_toBaselineOf
+     * @attr name com.hyc.IMDemo:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBottom_creator
+     * @attr name com.hyc.IMDemo:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8124,11 +8124,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBottom_toBottomOf
+     * @attr name com.hyc.IMDemo:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8144,11 +8144,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBottom_toTopOf
+     * @attr name com.hyc.IMDemo:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8156,20 +8156,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintCircle
+     * @attr name com.hyc.IMDemo:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintCircleAngle
+     * @attr name com.hyc.IMDemo:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8178,21 +8178,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintCircleRadius
+     * @attr name com.hyc.IMDemo:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintDimensionRatio
+     * @attr name com.hyc.IMDemo:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8208,11 +8208,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintEnd_toEndOf
+     * @attr name com.hyc.IMDemo:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8228,11 +8228,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintEnd_toStartOf
+     * @attr name com.hyc.IMDemo:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8241,11 +8241,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintGuide_begin
+     * @attr name com.hyc.IMDemo:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8254,20 +8254,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintGuide_end
+     * @attr name com.hyc.IMDemo:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintGuide_percent
+     * @attr name com.hyc.IMDemo:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8281,11 +8281,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHeight_default
+     * @attr name com.hyc.IMDemo:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8302,11 +8302,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHeight_max
+     * @attr name com.hyc.IMDemo:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8323,29 +8323,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHeight_min
+     * @attr name com.hyc.IMDemo:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHeight_percent
+     * @attr name com.hyc.IMDemo:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_bias
+     * @attr name com.hyc.IMDemo:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8359,29 +8359,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_chainStyle
+     * @attr name com.hyc.IMDemo:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_weight
+     * @attr name com.hyc.IMDemo:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintLeft_creator
+     * @attr name com.hyc.IMDemo:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8397,11 +8397,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintLeft_toLeftOf
+     * @attr name com.hyc.IMDemo:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8417,20 +8417,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintLeft_toRightOf
+     * @attr name com.hyc.IMDemo:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintRight_creator
+     * @attr name com.hyc.IMDemo:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8446,11 +8446,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintRight_toLeftOf
+     * @attr name com.hyc.IMDemo:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8466,11 +8466,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintRight_toRightOf
+     * @attr name com.hyc.IMDemo:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8486,11 +8486,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintStart_toEndOf
+     * @attr name com.hyc.IMDemo:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8506,20 +8506,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintStart_toStartOf
+     * @attr name com.hyc.IMDemo:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintTop_creator
+     * @attr name com.hyc.IMDemo:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8535,11 +8535,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintTop_toBottomOf
+     * @attr name com.hyc.IMDemo:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8555,20 +8555,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintTop_toTopOf
+     * @attr name com.hyc.IMDemo:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintVertical_bias
+     * @attr name com.hyc.IMDemo:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8582,20 +8582,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintVertical_chainStyle
+     * @attr name com.hyc.IMDemo:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintVertical_weight
+     * @attr name com.hyc.IMDemo:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8609,11 +8609,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintWidth_default
+     * @attr name com.hyc.IMDemo:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8630,11 +8630,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintWidth_max
+     * @attr name com.hyc.IMDemo:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8651,20 +8651,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintWidth_min
+     * @attr name com.hyc.IMDemo:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintWidth_percent
+     * @attr name com.hyc.IMDemo:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8673,11 +8673,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_editor_absoluteX
+     * @attr name com.hyc.IMDemo:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8686,11 +8686,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_editor_absoluteY
+     * @attr name com.hyc.IMDemo:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8699,11 +8699,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginBottom
+     * @attr name com.hyc.IMDemo:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8712,11 +8712,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginEnd
+     * @attr name com.hyc.IMDemo:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8725,11 +8725,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginLeft
+     * @attr name com.hyc.IMDemo:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8738,11 +8738,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginRight
+     * @attr name com.hyc.IMDemo:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8751,11 +8751,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginStart
+     * @attr name com.hyc.IMDemo:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8764,11 +8764,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginTop
+     * @attr name com.hyc.IMDemo:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8785,7 +8785,7 @@ public final class R {
      * <tr><td>standard</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_optimizationLevel
+     * @attr name com.hyc.IMDemo:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -8795,8 +8795,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.tencent.qcloud.tim.tuikit:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.tencent.qcloud.tim.tuikit:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.hyc.IMDemo:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.hyc.IMDemo:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -8805,7 +8805,7 @@ public final class R {
         0x7f030066, 0x7f030083
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8813,11 +8813,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:content
+     * @attr name com.hyc.IMDemo:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8830,7 +8830,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:emptyVisibility
+     * @attr name com.hyc.IMDemo:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -8863,55 +8863,55 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.tencent.qcloud.tim.tuikit:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.tencent.qcloud.tim.tuikit:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.tencent.qcloud.tim.tuikit:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.tencent.qcloud.tim.tuikit:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.tencent.qcloud.tim.tuikit:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.tencent.qcloud.tim.tuikit:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.tencent.qcloud.tim.tuikit:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.tencent.qcloud.tim.tuikit:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.tencent.qcloud.tim.tuikit:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.tencent.qcloud.tim.tuikit:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.tencent.qcloud.tim.tuikit:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.tencent.qcloud.tim.tuikit:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.tencent.qcloud.tim.tuikit:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.tencent.qcloud.tim.tuikit:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.tencent.qcloud.tim.tuikit:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.tencent.qcloud.tim.tuikit:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.tencent.qcloud.tim.tuikit:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.tencent.qcloud.tim.tuikit:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.tencent.qcloud.tim.tuikit:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.tencent.qcloud.tim.tuikit:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.tencent.qcloud.tim.tuikit:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.tencent.qcloud.tim.tuikit:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.tencent.qcloud.tim.tuikit:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.tencent.qcloud.tim.tuikit:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.tencent.qcloud.tim.tuikit:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.tencent.qcloud.tim.tuikit:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.tencent.qcloud.tim.tuikit:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.tencent.qcloud.tim.tuikit:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.tencent.qcloud.tim.tuikit:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.tencent.qcloud.tim.tuikit:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.tencent.qcloud.tim.tuikit:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.tencent.qcloud.tim.tuikit:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.tencent.qcloud.tim.tuikit:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.tencent.qcloud.tim.tuikit:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.tencent.qcloud.tim.tuikit:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.tencent.qcloud.tim.tuikit:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.tencent.qcloud.tim.tuikit:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.tencent.qcloud.tim.tuikit:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.tencent.qcloud.tim.tuikit:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.tencent.qcloud.tim.tuikit:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.tencent.qcloud.tim.tuikit:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.tencent.qcloud.tim.tuikit:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.tencent.qcloud.tim.tuikit:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.tencent.qcloud.tim.tuikit:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.tencent.qcloud.tim.tuikit:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.tencent.qcloud.tim.tuikit:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.hyc.IMDemo:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.hyc.IMDemo:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.hyc.IMDemo:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.hyc.IMDemo:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.hyc.IMDemo:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.hyc.IMDemo:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.hyc.IMDemo:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.hyc.IMDemo:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.hyc.IMDemo:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.hyc.IMDemo:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.hyc.IMDemo:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.hyc.IMDemo:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.hyc.IMDemo:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.hyc.IMDemo:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.hyc.IMDemo:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.hyc.IMDemo:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.hyc.IMDemo:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.hyc.IMDemo:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.hyc.IMDemo:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.hyc.IMDemo:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.hyc.IMDemo:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.hyc.IMDemo:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.hyc.IMDemo:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.hyc.IMDemo:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.hyc.IMDemo:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.hyc.IMDemo:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.hyc.IMDemo:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.hyc.IMDemo:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.hyc.IMDemo:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.hyc.IMDemo:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.hyc.IMDemo:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.hyc.IMDemo:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.hyc.IMDemo:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.hyc.IMDemo:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.hyc.IMDemo:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.hyc.IMDemo:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.hyc.IMDemo:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.hyc.IMDemo:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.hyc.IMDemo:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.hyc.IMDemo:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.hyc.IMDemo:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.hyc.IMDemo:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.hyc.IMDemo:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.hyc.IMDemo:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.hyc.IMDemo:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.hyc.IMDemo:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.hyc.IMDemo:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.hyc.IMDemo:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.hyc.IMDemo:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -9310,36 +9310,36 @@ public final class R {
      */
     public static final int ConstraintSet_android_visibility=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constrainedHeight
+     * @attr name com.hyc.IMDemo:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=23;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constrainedWidth
+     * @attr name com.hyc.IMDemo:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=24;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBaseline_creator
+     * @attr name com.hyc.IMDemo:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=25;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9355,20 +9355,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBaseline_toBaselineOf
+     * @attr name com.hyc.IMDemo:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=26;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBottom_creator
+     * @attr name com.hyc.IMDemo:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=27;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9384,11 +9384,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBottom_toBottomOf
+     * @attr name com.hyc.IMDemo:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=28;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9404,11 +9404,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintBottom_toTopOf
+     * @attr name com.hyc.IMDemo:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=29;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9416,20 +9416,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintCircle
+     * @attr name com.hyc.IMDemo:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintCircleAngle
+     * @attr name com.hyc.IMDemo:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9438,21 +9438,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintCircleRadius
+     * @attr name com.hyc.IMDemo:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=32;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintDimensionRatio
+     * @attr name com.hyc.IMDemo:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=33;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9468,11 +9468,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintEnd_toEndOf
+     * @attr name com.hyc.IMDemo:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9488,11 +9488,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintEnd_toStartOf
+     * @attr name com.hyc.IMDemo:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9501,11 +9501,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintGuide_begin
+     * @attr name com.hyc.IMDemo:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=36;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9514,20 +9514,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintGuide_end
+     * @attr name com.hyc.IMDemo:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=37;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintGuide_percent
+     * @attr name com.hyc.IMDemo:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=38;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9541,11 +9541,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHeight_default
+     * @attr name com.hyc.IMDemo:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=39;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9562,11 +9562,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHeight_max
+     * @attr name com.hyc.IMDemo:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=40;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9583,29 +9583,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHeight_min
+     * @attr name com.hyc.IMDemo:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=41;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHeight_percent
+     * @attr name com.hyc.IMDemo:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=42;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_bias
+     * @attr name com.hyc.IMDemo:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=43;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9619,29 +9619,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_chainStyle
+     * @attr name com.hyc.IMDemo:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintHorizontal_weight
+     * @attr name com.hyc.IMDemo:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=45;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintLeft_creator
+     * @attr name com.hyc.IMDemo:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=46;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9657,11 +9657,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintLeft_toLeftOf
+     * @attr name com.hyc.IMDemo:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=47;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9677,20 +9677,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintLeft_toRightOf
+     * @attr name com.hyc.IMDemo:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=48;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintRight_creator
+     * @attr name com.hyc.IMDemo:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=49;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9706,11 +9706,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintRight_toLeftOf
+     * @attr name com.hyc.IMDemo:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=50;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9726,11 +9726,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintRight_toRightOf
+     * @attr name com.hyc.IMDemo:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=51;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9746,11 +9746,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintStart_toEndOf
+     * @attr name com.hyc.IMDemo:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=52;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9766,20 +9766,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintStart_toStartOf
+     * @attr name com.hyc.IMDemo:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=53;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintTop_creator
+     * @attr name com.hyc.IMDemo:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9795,11 +9795,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintTop_toBottomOf
+     * @attr name com.hyc.IMDemo:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9815,20 +9815,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintTop_toTopOf
+     * @attr name com.hyc.IMDemo:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintVertical_bias
+     * @attr name com.hyc.IMDemo:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=57;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9842,20 +9842,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintVertical_chainStyle
+     * @attr name com.hyc.IMDemo:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=58;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintVertical_weight
+     * @attr name com.hyc.IMDemo:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=59;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9869,11 +9869,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintWidth_default
+     * @attr name com.hyc.IMDemo:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=60;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9890,11 +9890,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintWidth_max
+     * @attr name com.hyc.IMDemo:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=61;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9911,20 +9911,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintWidth_min
+     * @attr name com.hyc.IMDemo:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=62;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_constraintWidth_percent
+     * @attr name com.hyc.IMDemo:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=63;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9933,11 +9933,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_editor_absoluteX
+     * @attr name com.hyc.IMDemo:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=64;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9946,11 +9946,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_editor_absoluteY
+     * @attr name com.hyc.IMDemo:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=65;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9959,11 +9959,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginBottom
+     * @attr name com.hyc.IMDemo:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=66;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9972,11 +9972,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginEnd
+     * @attr name com.hyc.IMDemo:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=67;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9985,11 +9985,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginLeft
+     * @attr name com.hyc.IMDemo:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=68;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9998,11 +9998,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginRight
+     * @attr name com.hyc.IMDemo:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=69;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10011,11 +10011,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginStart
+     * @attr name com.hyc.IMDemo:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=70;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10024,7 +10024,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_goneMarginTop
+     * @attr name com.hyc.IMDemo:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=71;
     /**
@@ -10034,8 +10034,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.tencent.qcloud.tim.tuikit:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.tencent.qcloud.tim.tuikit:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.hyc.IMDemo:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.hyc.IMDemo:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -10051,12 +10051,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.tencent.qcloud.tim.tuikit:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.tencent.qcloud.tim.tuikit:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.tencent.qcloud.tim.tuikit:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.tencent.qcloud.tim.tuikit:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.tencent.qcloud.tim.tuikit:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.tencent.qcloud.tim.tuikit:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.hyc.IMDemo:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.hyc.IMDemo:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.hyc.IMDemo:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.hyc.IMDemo:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.hyc.IMDemo:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.hyc.IMDemo:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -10100,7 +10100,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10108,11 +10108,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_anchor
+     * @attr name com.hyc.IMDemo:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10137,21 +10137,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_anchorGravity
+     * @attr name com.hyc.IMDemo:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_behavior
+     * @attr name com.hyc.IMDemo:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10170,11 +10170,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_dodgeInsetEdges
+     * @attr name com.hyc.IMDemo:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10192,20 +10192,20 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_insetEdge
+     * @attr name com.hyc.IMDemo:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout_keyline
+     * @attr name com.hyc.IMDemo:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10213,11 +10213,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:keylines
+     * @attr name com.hyc.IMDemo:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10228,7 +10228,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:statusBarBackground
+     * @attr name com.hyc.IMDemo:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -10238,14 +10238,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.tencent.qcloud.tim.tuikit:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.tencent.qcloud.tim.tuikit:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.tencent.qcloud.tim.tuikit:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.tencent.qcloud.tim.tuikit:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.tencent.qcloud.tim.tuikit:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.tencent.qcloud.tim.tuikit:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.tencent.qcloud.tim.tuikit:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.tencent.qcloud.tim.tuikit:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.hyc.IMDemo:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.hyc.IMDemo:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.hyc.IMDemo:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.hyc.IMDemo:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.hyc.IMDemo:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.hyc.IMDemo:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.hyc.IMDemo:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.hyc.IMDemo:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -10261,7 +10261,7 @@ public final class R {
         0x7f03007a, 0x7f030094, 0x7f030127, 0x7f03014b
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10270,11 +10270,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:arrowHeadLength
+     * @attr name com.hyc.IMDemo:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10283,11 +10283,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:arrowShaftLength
+     * @attr name com.hyc.IMDemo:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10296,22 +10296,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:barLength
+     * @attr name com.hyc.IMDemo:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:color
+     * @attr name com.hyc.IMDemo:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10320,11 +10320,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:drawableSize
+     * @attr name com.hyc.IMDemo:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10333,21 +10333,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:gapBetweenBars
+     * @attr name com.hyc.IMDemo:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:spinBars
+     * @attr name com.hyc.IMDemo:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10356,7 +10356,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:thickness
+     * @attr name com.hyc.IMDemo:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -10366,12 +10366,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.tencent.qcloud.tim.tuikit:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.tencent.qcloud.tim.tuikit:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.tencent.qcloud.tim.tuikit:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.tencent.qcloud.tim.tuikit:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.tencent.qcloud.tim.tuikit:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.tencent.qcloud.tim.tuikit:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.hyc.IMDemo:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.hyc.IMDemo:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.hyc.IMDemo:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.hyc.IMDemo:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.hyc.IMDemo:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.hyc.IMDemo:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -10394,9 +10394,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.tencent.qcloud.tim.tuikit:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.tencent.qcloud.tim.tuikit:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.tencent.qcloud.tim.tuikit:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.hyc.IMDemo:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.hyc.IMDemo:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.hyc.IMDemo:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -10448,7 +10448,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontWeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10456,11 +10456,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:font
+     * @attr name com.hyc.IMDemo:font
      */
     public static final int FontFamilyFont_font=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10473,30 +10473,30 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontStyle
+     * @attr name com.hyc.IMDemo:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontWeight
+     * @attr name com.hyc.IMDemo:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontProviderAuthority
+     * @attr name com.hyc.IMDemo:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10504,11 +10504,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontProviderCerts
+     * @attr name com.hyc.IMDemo:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10521,11 +10521,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontProviderFetchStrategy
+     * @attr name com.hyc.IMDemo:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -10538,27 +10538,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontProviderFetchTimeout
+     * @attr name com.hyc.IMDemo:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontProviderPackage
+     * @attr name com.hyc.IMDemo:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontProviderQuery
+     * @attr name com.hyc.IMDemo:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -10568,8 +10568,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #IndexBar_indexBarPressBackground com.tencent.qcloud.tim.tuikit:indexBarPressBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #IndexBar_indexBarTextSize com.tencent.qcloud.tim.tuikit:indexBarTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #IndexBar_indexBarPressBackground com.hyc.IMDemo:indexBarPressBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #IndexBar_indexBarTextSize com.hyc.IMDemo:indexBarTextSize}</code></td><td></td></tr>
      * </table>
      * @see #IndexBar_indexBarPressBackground
      * @see #IndexBar_indexBarTextSize
@@ -10578,18 +10578,18 @@ public final class R {
         0x7f0300a6, 0x7f0300a7
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#indexBarPressBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#indexBarPressBackground}
      * attribute's value can be found in the {@link #IndexBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:indexBarPressBackground
+     * @attr name com.hyc.IMDemo:indexBarPressBackground
      */
     public static final int IndexBar_indexBarPressBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#indexBarTextSize}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#indexBarTextSize}
      * attribute's value can be found in the {@link #IndexBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10598,7 +10598,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:indexBarTextSize
+     * @attr name com.hyc.IMDemo:indexBarTextSize
      */
     public static final int IndexBar_indexBarTextSize=1;
     /**
@@ -10608,12 +10608,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #JCameraView_duration_max com.tencent.qcloud.tim.tuikit:duration_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #JCameraView_iconLeft com.tencent.qcloud.tim.tuikit:iconLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #JCameraView_iconMargin com.tencent.qcloud.tim.tuikit:iconMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #JCameraView_iconRight com.tencent.qcloud.tim.tuikit:iconRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #JCameraView_iconSize com.tencent.qcloud.tim.tuikit:iconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #JCameraView_iconSrc com.tencent.qcloud.tim.tuikit:iconSrc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #JCameraView_duration_max com.hyc.IMDemo:duration_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #JCameraView_iconLeft com.hyc.IMDemo:iconLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #JCameraView_iconMargin com.hyc.IMDemo:iconMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #JCameraView_iconRight com.hyc.IMDemo:iconRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #JCameraView_iconSize com.hyc.IMDemo:iconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #JCameraView_iconSrc com.hyc.IMDemo:iconSrc}</code></td><td></td></tr>
      * </table>
      * @see #JCameraView_duration_max
      * @see #JCameraView_iconLeft
@@ -10627,16 +10627,16 @@ public final class R {
         0x7f03009e, 0x7f03009f
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#duration_max}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#duration_max}
      * attribute's value can be found in the {@link #JCameraView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:duration_max
+     * @attr name com.hyc.IMDemo:duration_max
      */
     public static final int JCameraView_duration_max=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#iconLeft}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#iconLeft}
      * attribute's value can be found in the {@link #JCameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10644,11 +10644,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:iconLeft
+     * @attr name com.hyc.IMDemo:iconLeft
      */
     public static final int JCameraView_iconLeft=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#iconMargin}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#iconMargin}
      * attribute's value can be found in the {@link #JCameraView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10657,11 +10657,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:iconMargin
+     * @attr name com.hyc.IMDemo:iconMargin
      */
     public static final int JCameraView_iconMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#iconRight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#iconRight}
      * attribute's value can be found in the {@link #JCameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10669,11 +10669,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:iconRight
+     * @attr name com.hyc.IMDemo:iconRight
      */
     public static final int JCameraView_iconRight=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#iconSize}
      * attribute's value can be found in the {@link #JCameraView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10682,11 +10682,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:iconSize
+     * @attr name com.hyc.IMDemo:iconSize
      */
     public static final int JCameraView_iconSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#iconSrc}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#iconSrc}
      * attribute's value can be found in the {@link #JCameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10694,7 +10694,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:iconSrc
+     * @attr name com.hyc.IMDemo:iconSrc
      */
     public static final int JCameraView_iconSrc=5;
     /**
@@ -10704,11 +10704,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LineControllerView_canNav com.tencent.qcloud.tim.tuikit:canNav}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LineControllerView_isBottom com.tencent.qcloud.tim.tuikit:isBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LineControllerView_isSwitch com.tencent.qcloud.tim.tuikit:isSwitch}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LineControllerView_name com.tencent.qcloud.tim.tuikit:name}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LineControllerView_subject com.tencent.qcloud.tim.tuikit:subject}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LineControllerView_canNav com.hyc.IMDemo:canNav}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LineControllerView_isBottom com.hyc.IMDemo:isBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LineControllerView_isSwitch com.hyc.IMDemo:isSwitch}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LineControllerView_name com.hyc.IMDemo:name}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LineControllerView_subject com.hyc.IMDemo:subject}</code></td><td></td></tr>
      * </table>
      * @see #LineControllerView_canNav
      * @see #LineControllerView_isBottom
@@ -10721,53 +10721,53 @@ public final class R {
         0x7f030130
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#canNav}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#canNav}
      * attribute's value can be found in the {@link #LineControllerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:canNav
+     * @attr name com.hyc.IMDemo:canNav
      */
     public static final int LineControllerView_canNav=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#isBottom}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#isBottom}
      * attribute's value can be found in the {@link #LineControllerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:isBottom
+     * @attr name com.hyc.IMDemo:isBottom
      */
     public static final int LineControllerView_isBottom=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#isSwitch}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#isSwitch}
      * attribute's value can be found in the {@link #LineControllerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:isSwitch
+     * @attr name com.hyc.IMDemo:isSwitch
      */
     public static final int LineControllerView_isSwitch=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#name}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#name}
      * attribute's value can be found in the {@link #LineControllerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:name
+     * @attr name com.hyc.IMDemo:name
      */
     public static final int LineControllerView_name=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#subject}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#subject}
      * attribute's value can be found in the {@link #LineControllerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:subject
+     * @attr name com.hyc.IMDemo:subject
      */
     public static final int LineControllerView_subject=4;
     /**
@@ -10813,10 +10813,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.tencent.qcloud.tim.tuikit:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.tencent.qcloud.tim.tuikit:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.tencent.qcloud.tim.tuikit:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.tencent.qcloud.tim.tuikit:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.hyc.IMDemo:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.hyc.IMDemo:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.hyc.IMDemo:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.hyc.IMDemo:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -11012,7 +11012,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11020,11 +11020,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:divider
+     * @attr name com.hyc.IMDemo:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11033,21 +11033,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:dividerPadding
+     * @attr name com.hyc.IMDemo:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:measureWithLargestChild
+     * @attr name com.hyc.IMDemo:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11062,7 +11062,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:showDividers
+     * @attr name com.hyc.IMDemo:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -11230,16 +11230,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.tencent.qcloud.tim.tuikit:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.tencent.qcloud.tim.tuikit:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.tencent.qcloud.tim.tuikit:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.tencent.qcloud.tim.tuikit:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.tencent.qcloud.tim.tuikit:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.tencent.qcloud.tim.tuikit:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.tencent.qcloud.tim.tuikit:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.tencent.qcloud.tim.tuikit:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.tencent.qcloud.tim.tuikit:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.tencent.qcloud.tim.tuikit:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.hyc.IMDemo:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.hyc.IMDemo:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.hyc.IMDemo:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.hyc.IMDemo:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.hyc.IMDemo:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.hyc.IMDemo:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.hyc.IMDemo:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.hyc.IMDemo:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.hyc.IMDemo:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.hyc.IMDemo:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -11274,7 +11274,7 @@ public final class R {
         0x7f030100, 0x7f030121, 0x7f030163
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11282,31 +11282,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionLayout
+     * @attr name com.hyc.IMDemo:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionProviderClass
+     * @attr name com.hyc.IMDemo:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:actionViewClass
+     * @attr name com.hyc.IMDemo:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11323,7 +11323,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:alphabeticModifiers
+     * @attr name com.hyc.IMDemo:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -11469,28 +11469,28 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentDescription
+     * @attr name com.hyc.IMDemo:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:iconTint
+     * @attr name com.hyc.IMDemo:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11507,11 +11507,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:iconTintMode
+     * @attr name com.hyc.IMDemo:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11528,11 +11528,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:numericModifiers
+     * @attr name com.hyc.IMDemo:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11548,17 +11548,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:showAsAction
+     * @attr name com.hyc.IMDemo:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:tooltipText
+     * @attr name com.hyc.IMDemo:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -11575,8 +11575,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.tencent.qcloud.tim.tuikit:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.tencent.qcloud.tim.tuikit:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.hyc.IMDemo:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.hyc.IMDemo:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -11681,17 +11681,17 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:preserveIconSpacing
+     * @attr name com.hyc.IMDemo:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11699,7 +11699,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:subMenuArrow
+     * @attr name com.hyc.IMDemo:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -11711,7 +11711,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.tencent.qcloud.tim.tuikit:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.hyc.IMDemo:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -11727,7 +11727,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.tencent.qcloud.tim.tuikit:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.hyc.IMDemo:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -11735,13 +11735,13 @@ public final class R {
         0x7f03012d
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:state_above_anchor
+     * @attr name com.hyc.IMDemo:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -11772,13 +11772,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:overlapAnchor
+     * @attr name com.hyc.IMDemo:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -11788,8 +11788,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.tencent.qcloud.tim.tuikit:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.tencent.qcloud.tim.tuikit:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.hyc.IMDemo:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.hyc.IMDemo:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -11798,7 +11798,7 @@ public final class R {
         0x7f030102, 0x7f030105
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11807,11 +11807,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:paddingBottomNoButtons
+     * @attr name com.hyc.IMDemo:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11820,7 +11820,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:paddingTopNoTitle
+     * @attr name com.hyc.IMDemo:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -11832,15 +11832,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.tencent.qcloud.tim.tuikit:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.tencent.qcloud.tim.tuikit:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.tencent.qcloud.tim.tuikit:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.tencent.qcloud.tim.tuikit:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.tencent.qcloud.tim.tuikit:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.tencent.qcloud.tim.tuikit:layoutManager}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.tencent.qcloud.tim.tuikit:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.tencent.qcloud.tim.tuikit:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.tencent.qcloud.tim.tuikit:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.hyc.IMDemo:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.hyc.IMDemo:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.hyc.IMDemo:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.hyc.IMDemo:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.hyc.IMDemo:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.hyc.IMDemo:layoutManager}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.hyc.IMDemo:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.hyc.IMDemo:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.hyc.IMDemo:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -11895,17 +11895,17 @@ public final class R {
      */
     public static final int RecyclerView_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fastScrollEnabled
+     * @attr name com.hyc.IMDemo:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11913,11 +11913,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fastScrollHorizontalThumbDrawable
+     * @attr name com.hyc.IMDemo:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11925,11 +11925,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fastScrollHorizontalTrackDrawable
+     * @attr name com.hyc.IMDemo:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11937,11 +11937,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fastScrollVerticalThumbDrawable
+     * @attr name com.hyc.IMDemo:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11949,46 +11949,46 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fastScrollVerticalTrackDrawable
+     * @attr name com.hyc.IMDemo:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layoutManager
+     * @attr name com.hyc.IMDemo:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:reverseLayout
+     * @attr name com.hyc.IMDemo:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:spanCount
+     * @attr name com.hyc.IMDemo:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:stackFromEnd
+     * @attr name com.hyc.IMDemo:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -12002,19 +12002,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.tencent.qcloud.tim.tuikit:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.tencent.qcloud.tim.tuikit:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.tencent.qcloud.tim.tuikit:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.tencent.qcloud.tim.tuikit:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.tencent.qcloud.tim.tuikit:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.tencent.qcloud.tim.tuikit:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.tencent.qcloud.tim.tuikit:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.tencent.qcloud.tim.tuikit:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.tencent.qcloud.tim.tuikit:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.tencent.qcloud.tim.tuikit:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.tencent.qcloud.tim.tuikit:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.tencent.qcloud.tim.tuikit:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.tencent.qcloud.tim.tuikit:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.hyc.IMDemo:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.hyc.IMDemo:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.hyc.IMDemo:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.hyc.IMDemo:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.hyc.IMDemo:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.hyc.IMDemo:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.hyc.IMDemo:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.hyc.IMDemo:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.hyc.IMDemo:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.hyc.IMDemo:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.hyc.IMDemo:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.hyc.IMDemo:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.hyc.IMDemo:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -12152,7 +12152,7 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12160,11 +12160,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:closeIcon
+     * @attr name com.hyc.IMDemo:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12172,21 +12172,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:commitIcon
+     * @attr name com.hyc.IMDemo:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:defaultQueryHint
+     * @attr name com.hyc.IMDemo:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12194,21 +12194,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:goIcon
+     * @attr name com.hyc.IMDemo:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:iconifiedByDefault
+     * @attr name com.hyc.IMDemo:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12216,11 +12216,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:layout
+     * @attr name com.hyc.IMDemo:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12228,21 +12228,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:queryBackground
+     * @attr name com.hyc.IMDemo:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:queryHint
+     * @attr name com.hyc.IMDemo:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12250,11 +12250,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:searchHintIcon
+     * @attr name com.hyc.IMDemo:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12262,11 +12262,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:searchIcon
+     * @attr name com.hyc.IMDemo:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12274,11 +12274,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:submitBackground
+     * @attr name com.hyc.IMDemo:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12286,11 +12286,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:suggestionRowLayout
+     * @attr name com.hyc.IMDemo:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12298,7 +12298,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:voiceIcon
+     * @attr name com.hyc.IMDemo:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -12308,8 +12308,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ShadeImageView_shadeRadio com.tencent.qcloud.tim.tuikit:shadeRadio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ShadeImageView_shadeWidth com.tencent.qcloud.tim.tuikit:shadeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ShadeImageView_shadeRadio com.hyc.IMDemo:shadeRadio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ShadeImageView_shadeWidth com.hyc.IMDemo:shadeWidth}</code></td><td></td></tr>
      * </table>
      * @see #ShadeImageView_shadeRadio
      * @see #ShadeImageView_shadeWidth
@@ -12318,7 +12318,7 @@ public final class R {
         0x7f03011f, 0x7f030120
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#shadeRadio}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#shadeRadio}
      * attribute's value can be found in the {@link #ShadeImageView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12327,11 +12327,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:shadeRadio
+     * @attr name com.hyc.IMDemo:shadeRadio
      */
     public static final int ShadeImageView_shadeRadio=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#shadeWidth}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#shadeWidth}
      * attribute's value can be found in the {@link #ShadeImageView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12340,7 +12340,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:shadeWidth
+     * @attr name com.hyc.IMDemo:shadeWidth
      */
     public static final int ShadeImageView_shadeWidth=1;
     /**
@@ -12354,7 +12354,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.tencent.qcloud.tim.tuikit:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.hyc.IMDemo:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -12429,7 +12429,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12437,7 +12437,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:popupTheme
+     * @attr name com.hyc.IMDemo:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -12450,17 +12450,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.tencent.qcloud.tim.tuikit:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.tencent.qcloud.tim.tuikit:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.tencent.qcloud.tim.tuikit:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.tencent.qcloud.tim.tuikit:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.tencent.qcloud.tim.tuikit:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.tencent.qcloud.tim.tuikit:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.tencent.qcloud.tim.tuikit:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.tencent.qcloud.tim.tuikit:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.tencent.qcloud.tim.tuikit:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.tencent.qcloud.tim.tuikit:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.tencent.qcloud.tim.tuikit:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.hyc.IMDemo:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.hyc.IMDemo:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.hyc.IMDemo:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.hyc.IMDemo:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.hyc.IMDemo:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.hyc.IMDemo:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.hyc.IMDemo:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.hyc.IMDemo:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.hyc.IMDemo:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.hyc.IMDemo:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.hyc.IMDemo:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -12516,27 +12516,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:showText
+     * @attr name com.hyc.IMDemo:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:splitTrack
+     * @attr name com.hyc.IMDemo:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12545,11 +12545,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:switchMinWidth
+     * @attr name com.hyc.IMDemo:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12558,11 +12558,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:switchPadding
+     * @attr name com.hyc.IMDemo:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12570,11 +12570,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:switchTextAppearance
+     * @attr name com.hyc.IMDemo:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12583,22 +12583,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:thumbTextPadding
+     * @attr name com.hyc.IMDemo:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:thumbTint
+     * @attr name com.hyc.IMDemo:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12615,11 +12615,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:thumbTintMode
+     * @attr name com.hyc.IMDemo:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12627,22 +12627,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:track
+     * @attr name com.hyc.IMDemo:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:trackTint
+     * @attr name com.hyc.IMDemo:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12659,7 +12659,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:trackTintMode
+     * @attr name com.hyc.IMDemo:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -12669,10 +12669,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SynthesizedImageView_synthesized_default_image com.tencent.qcloud.tim.tuikit:synthesized_default_image}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SynthesizedImageView_synthesized_image_bg com.tencent.qcloud.tim.tuikit:synthesized_image_bg}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SynthesizedImageView_synthesized_image_gap com.tencent.qcloud.tim.tuikit:synthesized_image_gap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SynthesizedImageView_synthesized_image_size com.tencent.qcloud.tim.tuikit:synthesized_image_size}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SynthesizedImageView_synthesized_default_image com.hyc.IMDemo:synthesized_default_image}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SynthesizedImageView_synthesized_image_bg com.hyc.IMDemo:synthesized_image_bg}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SynthesizedImageView_synthesized_image_gap com.hyc.IMDemo:synthesized_image_gap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SynthesizedImageView_synthesized_image_size com.hyc.IMDemo:synthesized_image_size}</code></td><td></td></tr>
      * </table>
      * @see #SynthesizedImageView_synthesized_default_image
      * @see #SynthesizedImageView_synthesized_image_bg
@@ -12683,7 +12683,7 @@ public final class R {
         0x7f03013b, 0x7f03013c, 0x7f03013d, 0x7f03013e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#synthesized_default_image}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#synthesized_default_image}
      * attribute's value can be found in the {@link #SynthesizedImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12691,22 +12691,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:synthesized_default_image
+     * @attr name com.hyc.IMDemo:synthesized_default_image
      */
     public static final int SynthesizedImageView_synthesized_default_image=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#synthesized_image_bg}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#synthesized_image_bg}
      * attribute's value can be found in the {@link #SynthesizedImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:synthesized_image_bg
+     * @attr name com.hyc.IMDemo:synthesized_image_bg
      */
     public static final int SynthesizedImageView_synthesized_image_bg=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#synthesized_image_gap}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#synthesized_image_gap}
      * attribute's value can be found in the {@link #SynthesizedImageView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12715,11 +12715,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:synthesized_image_gap
+     * @attr name com.hyc.IMDemo:synthesized_image_gap
      */
     public static final int SynthesizedImageView_synthesized_image_gap=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#synthesized_image_size}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#synthesized_image_size}
      * attribute's value can be found in the {@link #SynthesizedImageView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12728,7 +12728,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:synthesized_image_size
+     * @attr name com.hyc.IMDemo:synthesized_image_size
      */
     public static final int SynthesizedImageView_synthesized_image_size=3;
     /**
@@ -12749,8 +12749,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.tencent.qcloud.tim.tuikit:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.tencent.qcloud.tim.tuikit:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.hyc.IMDemo:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.hyc.IMDemo:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -12916,17 +12916,17 @@ public final class R {
      */
     public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:fontFamily
+     * @attr name com.hyc.IMDemo:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12936,7 +12936,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:textAllCaps
+     * @attr name com.hyc.IMDemo:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -12948,33 +12948,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.tencent.qcloud.tim.tuikit:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.tencent.qcloud.tim.tuikit:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.tencent.qcloud.tim.tuikit:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.tencent.qcloud.tim.tuikit:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.tencent.qcloud.tim.tuikit:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.tencent.qcloud.tim.tuikit:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.tencent.qcloud.tim.tuikit:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.tencent.qcloud.tim.tuikit:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.tencent.qcloud.tim.tuikit:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.tencent.qcloud.tim.tuikit:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.tencent.qcloud.tim.tuikit:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.tencent.qcloud.tim.tuikit:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.tencent.qcloud.tim.tuikit:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.tencent.qcloud.tim.tuikit:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.tencent.qcloud.tim.tuikit:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.tencent.qcloud.tim.tuikit:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.tencent.qcloud.tim.tuikit:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.tencent.qcloud.tim.tuikit:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.tencent.qcloud.tim.tuikit:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.tencent.qcloud.tim.tuikit:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.tencent.qcloud.tim.tuikit:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.tencent.qcloud.tim.tuikit:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.tencent.qcloud.tim.tuikit:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.tencent.qcloud.tim.tuikit:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.tencent.qcloud.tim.tuikit:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.tencent.qcloud.tim.tuikit:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.tencent.qcloud.tim.tuikit:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.hyc.IMDemo:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.hyc.IMDemo:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.hyc.IMDemo:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.hyc.IMDemo:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.hyc.IMDemo:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.hyc.IMDemo:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.hyc.IMDemo:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.hyc.IMDemo:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.hyc.IMDemo:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.hyc.IMDemo:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.hyc.IMDemo:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.hyc.IMDemo:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.hyc.IMDemo:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.hyc.IMDemo:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.hyc.IMDemo:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.hyc.IMDemo:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.hyc.IMDemo:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.hyc.IMDemo:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.hyc.IMDemo:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.hyc.IMDemo:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.hyc.IMDemo:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.hyc.IMDemo:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.hyc.IMDemo:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.hyc.IMDemo:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.hyc.IMDemo:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.hyc.IMDemo:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.hyc.IMDemo:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -13059,7 +13059,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -13072,21 +13072,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:buttonGravity
+     * @attr name com.hyc.IMDemo:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:collapseContentDescription
+     * @attr name com.hyc.IMDemo:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13094,11 +13094,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:collapseIcon
+     * @attr name com.hyc.IMDemo:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13107,11 +13107,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetEnd
+     * @attr name com.hyc.IMDemo:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13120,11 +13120,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetEndWithActions
+     * @attr name com.hyc.IMDemo:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13133,11 +13133,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetLeft
+     * @attr name com.hyc.IMDemo:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13146,11 +13146,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetRight
+     * @attr name com.hyc.IMDemo:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13159,11 +13159,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetStart
+     * @attr name com.hyc.IMDemo:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13172,11 +13172,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:contentInsetStartWithNavigation
+     * @attr name com.hyc.IMDemo:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13184,21 +13184,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:logo
+     * @attr name com.hyc.IMDemo:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:logoDescription
+     * @attr name com.hyc.IMDemo:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13207,21 +13207,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:maxButtonHeight
+     * @attr name com.hyc.IMDemo:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:navigationContentDescription
+     * @attr name com.hyc.IMDemo:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13229,11 +13229,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:navigationIcon
+     * @attr name com.hyc.IMDemo:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13241,21 +13241,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:popupTheme
+     * @attr name com.hyc.IMDemo:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:subtitle
+     * @attr name com.hyc.IMDemo:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13263,32 +13263,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:subtitleTextAppearance
+     * @attr name com.hyc.IMDemo:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:subtitleTextColor
+     * @attr name com.hyc.IMDemo:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:title
+     * @attr name com.hyc.IMDemo:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13297,11 +13297,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleMargin
+     * @attr name com.hyc.IMDemo:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13310,11 +13310,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleMarginBottom
+     * @attr name com.hyc.IMDemo:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13323,11 +13323,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleMarginEnd
+     * @attr name com.hyc.IMDemo:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13336,11 +13336,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleMarginStart
+     * @attr name com.hyc.IMDemo:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13349,11 +13349,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleMarginTop
+     * @attr name com.hyc.IMDemo:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13362,11 +13362,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleMargins
+     * @attr name com.hyc.IMDemo:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13374,18 +13374,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleTextAppearance
+     * @attr name com.hyc.IMDemo:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:titleTextColor
+     * @attr name com.hyc.IMDemo:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -13395,8 +13395,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #UserIconView_default_image com.tencent.qcloud.tim.tuikit:default_image}</code></td><td></td></tr>
-     * <tr><td><code>{@link #UserIconView_image_radius com.tencent.qcloud.tim.tuikit:image_radius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #UserIconView_default_image com.hyc.IMDemo:default_image}</code></td><td></td></tr>
+     * <tr><td><code>{@link #UserIconView_image_radius com.hyc.IMDemo:image_radius}</code></td><td></td></tr>
      * </table>
      * @see #UserIconView_default_image
      * @see #UserIconView_image_radius
@@ -13405,7 +13405,7 @@ public final class R {
         0x7f030072, 0x7f0300a4
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#default_image}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#default_image}
      * attribute's value can be found in the {@link #UserIconView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13413,11 +13413,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:default_image
+     * @attr name com.hyc.IMDemo:default_image
      */
     public static final int UserIconView_default_image=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#image_radius}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#image_radius}
      * attribute's value can be found in the {@link #UserIconView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13426,7 +13426,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:image_radius
+     * @attr name com.hyc.IMDemo:image_radius
      */
     public static final int UserIconView_image_radius=1;
     /**
@@ -13438,9 +13438,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.tencent.qcloud.tim.tuikit:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.tencent.qcloud.tim.tuikit:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.tencent.qcloud.tim.tuikit:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.hyc.IMDemo:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.hyc.IMDemo:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.hyc.IMDemo:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -13460,8 +13460,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.tencent.qcloud.tim.tuikit:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.tencent.qcloud.tim.tuikit:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.hyc.IMDemo:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.hyc.IMDemo:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -13486,18 +13486,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:backgroundTint
+     * @attr name com.hyc.IMDemo:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13514,7 +13514,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:backgroundTintMode
+     * @attr name com.hyc.IMDemo:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -13602,7 +13602,7 @@ public final class R {
      */
     public static final int View_android_theme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13611,11 +13611,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:paddingEnd
+     * @attr name com.hyc.IMDemo:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13624,11 +13624,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:paddingStart
+     * @attr name com.hyc.IMDemo:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13636,7 +13636,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:theme
+     * @attr name com.hyc.IMDemo:theme
      */
     public static final int View_theme=4;
     /**
@@ -13646,7 +13646,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #leak_canary_MoreDetailsView_leak_canary_plus_color com.tencent.qcloud.tim.tuikit:leak_canary_plus_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #leak_canary_MoreDetailsView_leak_canary_plus_color com.hyc.IMDemo:leak_canary_plus_color}</code></td><td></td></tr>
      * </table>
      * @see #leak_canary_MoreDetailsView_leak_canary_plus_color
      */
@@ -13654,14 +13654,14 @@ public final class R {
         0x7f0300eb
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#leak_canary_plus_color}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#leak_canary_plus_color}
      * attribute's value can be found in the {@link #leak_canary_MoreDetailsView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:leak_canary_plus_color
+     * @attr name com.hyc.IMDemo:leak_canary_plus_color
      */
     public static final int leak_canary_MoreDetailsView_leak_canary_plus_color=0;
     /**
@@ -13671,12 +13671,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #pickerview_wheelview_dividerColor com.tencent.qcloud.tim.tuikit:wheelview_dividerColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #pickerview_wheelview_gravity com.tencent.qcloud.tim.tuikit:wheelview_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #pickerview_wheelview_lineSpacingMultiplier com.tencent.qcloud.tim.tuikit:wheelview_lineSpacingMultiplier}</code></td><td></td></tr>
-     * <tr><td><code>{@link #pickerview_wheelview_textColorCenter com.tencent.qcloud.tim.tuikit:wheelview_textColorCenter}</code></td><td></td></tr>
-     * <tr><td><code>{@link #pickerview_wheelview_textColorOut com.tencent.qcloud.tim.tuikit:wheelview_textColorOut}</code></td><td></td></tr>
-     * <tr><td><code>{@link #pickerview_wheelview_textSize com.tencent.qcloud.tim.tuikit:wheelview_textSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #pickerview_wheelview_dividerColor com.hyc.IMDemo:wheelview_dividerColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #pickerview_wheelview_gravity com.hyc.IMDemo:wheelview_gravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #pickerview_wheelview_lineSpacingMultiplier com.hyc.IMDemo:wheelview_lineSpacingMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #pickerview_wheelview_textColorCenter com.hyc.IMDemo:wheelview_textColorCenter}</code></td><td></td></tr>
+     * <tr><td><code>{@link #pickerview_wheelview_textColorOut com.hyc.IMDemo:wheelview_textColorOut}</code></td><td></td></tr>
+     * <tr><td><code>{@link #pickerview_wheelview_textSize com.hyc.IMDemo:wheelview_textSize}</code></td><td></td></tr>
      * </table>
      * @see #pickerview_wheelview_dividerColor
      * @see #pickerview_wheelview_gravity
@@ -13690,18 +13690,18 @@ public final class R {
         0x7f03016d, 0x7f03016e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#wheelview_dividerColor}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#wheelview_dividerColor}
      * attribute's value can be found in the {@link #pickerview} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:wheelview_dividerColor
+     * @attr name com.hyc.IMDemo:wheelview_dividerColor
      */
     public static final int pickerview_wheelview_dividerColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#wheelview_gravity}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#wheelview_gravity}
      * attribute's value can be found in the {@link #pickerview} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13715,42 +13715,42 @@ public final class R {
      * <tr><td>right</td><td>5</td><td></td></tr>
      * </table>
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:wheelview_gravity
+     * @attr name com.hyc.IMDemo:wheelview_gravity
      */
     public static final int pickerview_wheelview_gravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#wheelview_lineSpacingMultiplier}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#wheelview_lineSpacingMultiplier}
      * attribute's value can be found in the {@link #pickerview} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:wheelview_lineSpacingMultiplier
+     * @attr name com.hyc.IMDemo:wheelview_lineSpacingMultiplier
      */
     public static final int pickerview_wheelview_lineSpacingMultiplier=2;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#wheelview_textColorCenter}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#wheelview_textColorCenter}
      * attribute's value can be found in the {@link #pickerview} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:wheelview_textColorCenter
+     * @attr name com.hyc.IMDemo:wheelview_textColorCenter
      */
     public static final int pickerview_wheelview_textColorCenter=3;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#wheelview_textColorOut}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#wheelview_textColorOut}
      * attribute's value can be found in the {@link #pickerview} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:wheelview_textColorOut
+     * @attr name com.hyc.IMDemo:wheelview_textColorOut
      */
     public static final int pickerview_wheelview_textColorOut=4;
     /**
-     * <p>This symbol is the offset where the {@link com.tencent.qcloud.tim.tuikit.R.attr#wheelview_textSize}
+     * <p>This symbol is the offset where the {@link com.hyc.IMDemo.R.attr#wheelview_textSize}
      * attribute's value can be found in the {@link #pickerview} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13759,7 +13759,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.tencent.qcloud.tim.tuikit:wheelview_textSize
+     * @attr name com.hyc.IMDemo:wheelview_textSize
      */
     public static final int pickerview_wheelview_textSize=5;
   }
