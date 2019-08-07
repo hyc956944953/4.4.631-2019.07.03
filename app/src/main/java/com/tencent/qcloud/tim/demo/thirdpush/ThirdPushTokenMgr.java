@@ -64,7 +64,7 @@ public class ThirdPushTokenMgr {
             param = new TIMOfflinePushToken(Constants.XM_PUSH_BUZID, token);
         }else if(IMFunc.isBrandHuawei()){
             param = new TIMOfflinePushToken(Constants.HW_PUSH_BUZID, token);
-            Log.e(TAG, "华为推送参数设置" );
+            Log.e(TAG, "华为推送参数设置"+token );
         }else if(IMFunc.isBrandMeizu()){
             param = new TIMOfflinePushToken(Constants.MZ_PUSH_BUZID, token);
         }else if(IMFunc.isBrandOppo()){
@@ -78,7 +78,7 @@ public class ThirdPushTokenMgr {
             @Override
             public void onError(int code, String desc) {
                 DemoLog.d(TAG, "setOfflinePushToken err code = " + code);
-                Log.e(TAG, "token上报失败"+code );
+                Log.e(TAG, "token上报失败"+code +desc);
             }
 
             @Override

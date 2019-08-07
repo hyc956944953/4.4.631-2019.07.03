@@ -19,6 +19,7 @@ import android.widget.EditText;
 import com.huawei.android.hms.agent.HMSAgent;
 import com.huawei.android.hms.agent.common.handler.ConnectHandler;
 import com.huawei.android.hms.agent.push.handler.GetTokenHandler;
+import com.tencent.imsdk.TIMManager;
 import com.tencent.imsdk.TIMOfflinePushSettings;
 import com.tencent.imsdk.utils.IMFunc;
 import com.tencent.qcloud.tim.demo.R;
@@ -52,7 +53,6 @@ private static final String TAG = "LoginForDevActivity";
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login_for_dev_layout);
-        Log.e(TAG, "你好" );
         mLoginView = findViewById(R.id.login_btn);
         // 用户名可以是任意非空字符，但是前提需要按照下面文档修改代码里的 SDKAPPID 与 PRIVATEKEY
         // https://github.com/tencentyun/TIMSDK/tree/master/Android
@@ -60,16 +60,7 @@ private static final String TAG = "LoginForDevActivity";
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);
         checkPermission(this);
 
-        if (IMFunc.isBrandHuawei()) {
-            // 华为离线推送
-            HMSAgent.connect(this, new ConnectHandler() {
-                @Override
-                public void onConnect(int rst) {
-                    DemoLog.i(TAG, "huawei push HMS connect end:" + rst);
-                }
-            });
-            getHuaWeiPushToken();
-        }
+
 
         mLoginView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -89,12 +80,15 @@ private static final String TAG = "LoginForDevActivity";
 
                     @Override
                     public void onSuccess(Object data) {
+
                         Intent intent = new Intent(LoginForDevActivity.this, MainActivity.class);
                         startActivity(intent);
                         TIMOfflinePushSettings settings = new TIMOfflinePushSettings();
-//开启离线推送
                         settings.setEnabled(true);
+                        TIMManager.getInstance().setOfflinePushSettings(settings);
                         finish();
+
+
                     }
                 });
             }
@@ -156,13 +150,5 @@ private static final String TAG = "LoginForDevActivity";
         }
     }
 
-    private void getHuaWeiPushToken() {
-        HMSAgent.Push.getToken(new GetTokenHandler() {
-            @Override
-            public void onResult(int rtnCode) {
-                DemoLog.i(TAG, "huawei push get token: end" + rtnCode);
-                Log.e("华为离线", "onResult: "+rtnCode );
-            }
-        });
-    }
+
 }

@@ -8,11 +8,16 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.widget.TextView;
 
+import com.huawei.android.hms.agent.HMSAgent;
+import com.huawei.android.hms.agent.common.handler.ConnectHandler;
+import com.huawei.android.hms.agent.push.handler.GetTokenHandler;
 import com.tencent.imsdk.TIMManager;
+import com.tencent.imsdk.utils.IMFunc;
 import com.tencent.qcloud.tim.demo.R;
 import com.tencent.qcloud.tim.demo.contact.ContactFragment;
 import com.tencent.qcloud.tim.demo.conversation.ConversationFragment;
@@ -50,6 +55,17 @@ public class MainActivity extends Activity implements ConversationManagerKit.Mes
             handleLogin(true); // 如果账户不为空，就默认下次自动登录
         }
         initView();
+
+        if (IMFunc.isBrandHuawei()) {
+            // 华为离线推送
+            HMSAgent.connect(this, new ConnectHandler() {
+                @Override
+                public void onConnect(int rst) {
+                    DemoLog.i(TAG, "huawei push HMS connect end:" + rst);
+                }
+            });
+            getHuaWeiPushToken();
+        }
     }
 
     private void initView() {
@@ -194,6 +210,19 @@ public class MainActivity extends Activity implements ConversationManagerKit.Mes
 
             @Override
             public void onDisconnected(int code, String desc) {
+            }
+        });
+    }
+
+
+
+
+    private void getHuaWeiPushToken() {
+        HMSAgent.Push.getToken(new GetTokenHandler() {
+            @Override
+            public void onResult(int rtnCode) {
+                DemoLog.i(TAG, "huawei push get token: end" + rtnCode);
+                Log.e("华为离线", "onResult: "+rtnCode );
             }
         });
     }

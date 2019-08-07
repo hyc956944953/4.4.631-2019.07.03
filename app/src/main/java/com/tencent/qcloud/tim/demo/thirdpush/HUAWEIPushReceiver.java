@@ -2,6 +2,7 @@ package com.tencent.qcloud.tim.demo.thirdpush;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.util.Log;
 
 import com.huawei.hms.support.api.push.PushReceiver;
 import com.tencent.qcloud.tim.demo.utils.DemoLog;
@@ -18,8 +19,8 @@ public class HUAWEIPushReceiver extends PushReceiver {
     public boolean onPushMsg(Context context, byte[] msgBytes, Bundle extras) {
         try {
             //CP可以自己解析消息内容，然后做相应的处理
-            String content = new String(msgBytes, StandardCharsets.UTF_8);
-            DemoLog.i(TAG, "收到PUSH透传消息,消息内容为:" + content);
+//            String content = new String(msgBytes, StandardCharsets.UTF_8);
+//            DemoLog.i(TAG, "收到PUSH透传消息,消息内容为:" + content);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -28,8 +29,10 @@ public class HUAWEIPushReceiver extends PushReceiver {
 
     @Override
     public void onToken(Context context, String token, Bundle extras) {
+
         DemoLog.i(TAG, "onTokenee:" + token);
         ThirdPushTokenMgr.getInstance().setThirdPushToken(token);
         ThirdPushTokenMgr.getInstance().setPushTokenToTIM();
+        Log.e(TAG, "onToken: "+token);
     }
 }

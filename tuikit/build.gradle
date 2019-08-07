@@ -50,7 +50,7 @@ dependencies {
 
 
 
-    api 'com.tencent.imsdk:imsdk:4.4.627'
+    api 'com.tencent.imsdk:imsdk:4.4.631'
 //    api project(':imsdk')
 }
 

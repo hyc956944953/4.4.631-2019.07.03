@@ -29,7 +29,7 @@ MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Admini
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fe18c591db23b473245dfc81c88e3070\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\28061ac881892b5babac7e2d7483bf06\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:2:1-11:12
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:2:1-44:12
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:2:1-44:12
 MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:1:106-7:12
 MERGED from [com.tencent.qcloud:mtaUtils:5.4.16] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mtaUtils-5.4.16.aar\21d5515cdda20cd2ba7f5d0d31aeb0cb\AndroidManifest.xml:2:1-21:12
 MERGED from [com.tencent.qcloud:logUtils:5.4.22] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\logUtils-5.4.22.aar\194c28b88734370bbc9b4a13733a7513\AndroidManifest.xml:2:1-18:12
@@ -65,8 +65,8 @@ MERGED from [com.tencent.qcloud:cosxml:5.4.26] C:\Users\Administrator\.gradle\ca
 MERGED from [com.tencent.qcloud:cosxml:5.4.26] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cosxml-5.4.26.aar\b6dfa41b159691ee7c0f21cfce983a72\AndroidManifest.xml:11:5-79
 MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:13:5-79
 MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:13:5-79
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:13:5-79
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:13:5-79
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:13:5-79
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:13:5-79
 MERGED from [com.qq.mta:mta:3.4.7-release] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mta-3.4.7-release.aar\570120872ecef1405ad0c35c0ded337a\AndroidManifest.xml:13:5-79
 MERGED from [com.qq.mta:mta:3.4.7-release] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mta-3.4.7-release.aar\570120872ecef1405ad0c35c0ded337a\AndroidManifest.xml:13:5-79
 	android:name
@@ -77,8 +77,8 @@ MERGED from [com.tencent.qcloud:cosxml:5.4.26] C:\Users\Administrator\.gradle\ca
 MERGED from [com.tencent.qcloud:cosxml:5.4.26] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cosxml-5.4.26.aar\b6dfa41b159691ee7c0f21cfce983a72\AndroidManifest.xml:12:5-67
 MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:11:5-67
 MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:11:5-67
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:12:5-67
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:12:5-67
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:12:5-67
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:12:5-67
 MERGED from [com.qq.mta:mta:3.4.7-release] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mta-3.4.7-release.aar\570120872ecef1405ad0c35c0ded337a\AndroidManifest.xml:12:5-67
 MERGED from [com.qq.mta:mta:3.4.7-release] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mta-3.4.7-release.aar\570120872ecef1405ad0c35c0ded337a\AndroidManifest.xml:12:5-67
 	android:name
@@ -91,8 +91,8 @@ MERGED from [com.tencent.qcloud:cosxml:5.4.26] C:\Users\Administrator\.gradle\ca
 MERGED from [com.tencent.qcloud:cosxml:5.4.26] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cosxml-5.4.26.aar\b6dfa41b159691ee7c0f21cfce983a72\AndroidManifest.xml:15:5-76
 MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:16:5-76
 MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:16:5-76
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:14:5-76
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:14:5-76
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:14:5-76
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:14:5-76
 MERGED from [com.qq.mta:mta:3.4.7-release] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mta-3.4.7-release.aar\570120872ecef1405ad0c35c0ded337a\AndroidManifest.xml:14:5-76
 MERGED from [com.qq.mta:mta:3.4.7-release] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mta-3.4.7-release.aar\570120872ecef1405ad0c35c0ded337a\AndroidManifest.xml:14:5-76
 	android:name
@@ -215,8 +215,8 @@ MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Administrator\.grad
 MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c362f3abb32e6baa8f4660e9832e9491\AndroidManifest.xml:11:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:9:5-20
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:16:5-42:19
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:16:5-42:19
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:16:5-42:19
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:16:5-42:19
 MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:5:5-19
 MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:5:5-19
 MERGED from [com.tencent.qcloud:mtaUtils:5.4.16] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mtaUtils-5.4.16.aar\21d5515cdda20cd2ba7f5d0d31aeb0cb\AndroidManifest.xml:12:5-19:19
@@ -357,8 +357,8 @@ ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\mai
 		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:106:13-80
 receiver#com.tencent.imsdk.session.SessionBroadcastReceiver
 ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:109:9-115:20
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:34:9-41:20
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:34:9-41:20
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:34:9-41:20
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:34:9-41:20
 	android:name
 		ADDED from E:\android\android project\tencentyun\4.4.631 @2019.07.03\app\src\main\AndroidManifest.xml:109:19-84
 intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE+com.tencent.imsdk.session.boot
@@ -685,8 +685,8 @@ MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\28061ac881892b5babac7e2d7483bf06\AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:5:5-7:41
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:7:5-9:41
 MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:3:5-72
 MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:3:5-72
 MERGED from [com.tencent.qcloud:mtaUtils:5.4.16] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mtaUtils-5.4.16.aar\21d5515cdda20cd2ba7f5d0d31aeb0cb\AndroidManifest.xml:8:5-10:41
@@ -879,15 +879,15 @@ ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator
 	android:name
 		ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:27:25-93
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:11:5-81
+ADDED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:11:22-78
+		ADDED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:11:22-78
 intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE+com.tencent.imsdk.session.boot+com.tencent.qcloud.qal.TASK_REMOVED
-ADDED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:35:13-40:29
+ADDED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:35:13-40:29
 action#com.tencent.qcloud.qal.TASK_REMOVED
-ADDED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:39:17-78
+ADDED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:39:17-78
 	android:name
-		ADDED from [com.tencent.imsdk:imsdk:4.4.627] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.627.aar\dc9610fdf8b7125e7fb5295cc9d47c93\AndroidManifest.xml:39:25-75
+		ADDED from [com.tencent.imsdk:imsdk:4.4.631] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.631.aar\4e5387f9fdd08ca834b5f7723aa491fb\AndroidManifest.xml:39:25-75
 meta-data#TA_APPKEY
 ADDED from [com.tencent.qcloud:mtaUtils:5.4.16] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mtaUtils-5.4.16.aar\21d5515cdda20cd2ba7f5d0d31aeb0cb\AndroidManifest.xml:13:9-15:35
 REJECTED from [com.qq.mta:mta:3.4.7-release] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\mta-3.4.7-release.aar\570120872ecef1405ad0c35c0ded337a\AndroidManifest.xml:24:9-26:45
